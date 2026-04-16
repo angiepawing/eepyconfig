@@ -33,23 +33,12 @@ This is my personal Team Fortress 2 config built for maximum visibility, competi
 * [Original Left Hand Fix](https://drive.google.com/file/d/1LK6E2exUce3kGID2wESCvb18_Zpt-d2Q)
 * [Sniper Scope MipMap + Refractions Fix](https://gamebanana.com/mods/388222)
 
-## Q&A
+## Note
 
-**Q. Why do you use high settings? This competitive player told me that's bad!!!**
 
-A. When I use the absolute lowest settings, it is extremely hard to quickly visualize players. I use a specific lighting method to ensure I can see players easily, use high LOD to prevent character models from becoming too polygonal, and high textures specifically on characters to spot them from the background nicely. You can see in my [Screenshot Showcase](https://imgur.com/a/eepyconfig-mKUx4WL).
+**Where's your crosshair?**
 
-**Q. What's up with the flat textures?**
-
-A. I used to play Quake Live, and it's what I got used to. The way I have my config configured, the characters stand out phenomenally from the world with how detailed they are, vs how basic the world textures are. It works perfectly for me, and I suggest you try it too!
-
-**Q. Why do you remove so much stuff? Doesn't that ruin the fun?**
-
-A. I remove everything I deem "not neccessary" to play the game. TF2 can become EXTREMELY overwhelming with all that is has to offer in a default config, and I strive to remove that. I specifically keep cosmetics, because I'm a Medic player and need to be able to tell players apart. In a Highlander situation, I would remove this. In terms of Sixes, I'm under the impression that a players cosmetics can be the fastest way of telling them apart from the other, rather than reading a name, so cosmetics would stay.
-
-**Q. Where's your crosshair?**
-
-A. I use an application called [CrosshairX](https://store.steampowered.com/app/1366800/Crosshair_X/) with the code ib8y6jro5p. TF2 huds have somewhat lacking crosshair customization, and I've specifically fine tuned mine to fit my needs.
+I use an application called [CrosshairX](https://store.steampowered.com/app/1366800/Crosshair_X/) with the code ib8y6jro5p. TF2 huds have somewhat lacking crosshair customization, and I've specifically fine tuned mine to fit my needs.
 
 
 ## Screenshots
