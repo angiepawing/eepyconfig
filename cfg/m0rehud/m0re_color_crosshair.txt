@@ -1,1 +1,0 @@
-#base ../../resource/ui/customizations/colors/crosshair/crosshair_green.res 

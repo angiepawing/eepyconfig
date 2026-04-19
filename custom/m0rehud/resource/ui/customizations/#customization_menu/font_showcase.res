@@ -2,12 +2,21 @@
 {
 	"Fonts"
 	{
+		"Showcase_User_Font"
+		{
+			"1"
+			{
+				"name"										"surface_medium"
+				"Tall"										"24"
+				"antialias"									"1"
+			}
+		}
 		"Showcase_Alternate_Gothic"
 		{
 			"1"
 			{
-				"name"										"AlternateGothicEF-NoThree"
-				"tall"										"11"
+				"name"										"alternate_gothic_ef"
+				"Tall"										"30"
 				"antialias"									"1"
 			}
 		}
@@ -16,7 +25,7 @@
 			"1"
 			{
 				"name"										"Archive"
-				"tall"										"11"
+				"Tall"										"23"
 				"antialias"									"1"
 			}
 		}
@@ -24,8 +33,8 @@
 		{
 			"1"
 			{
-				"name"										"AvenirLTStd-Black"
-				"tall"										"11"
+				"name"										"avenir_black"
+				"Tall"										"23"
 				"antialias"									"1"
 			}
 		}
@@ -33,8 +42,8 @@
 		{
 			"1"
 			{
-				"name"										"Cafe Nero M54"
-				"tall"										"8"
+				"name"										"cafe_nero_m54"
+				"Tall"										"15"
 				"antialias"									"1"
 			}
 		}
@@ -42,8 +51,8 @@
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
-				"tall"										"14"
+				"name"										"catamaran_semibold"
+				"Tall"										"36"
 				"antialias"									"1"
 			}
 		}
@@ -51,8 +60,8 @@
 		{
 			"1"
 			{
-				"name"										"Cerbetica Bold"
-				"tall"										"11"
+				"name"										"cerbetica_bold"
+				"Tall"										"27"
 				"antialias"									"1"
 			}
 		}
@@ -60,8 +69,8 @@
 		{
 			"1"
 			{
-				"name"										"Code-Pro-LC"
-				"tall"										"11"
+				"name"										"code_pro_lc"
+				"Tall"										"24"
 				"antialias"									"1"
 			}
 		}
@@ -69,8 +78,8 @@
 		{
 			"1"
 			{
-				"name"										"Days"
-				"tall"										"10"
+				"name"										"days"
+				"Tall"										"20"
 				"antialias"									"1"
 			}
 		}
@@ -78,8 +87,8 @@
 		{
 			"1"
 			{
-				"name"										"FuturaSTD-Heavy"
-				"tall"										"11"
+				"name"										"futura_std_heavy"
+				"Tall"										"25"
 				"antialias"									"1"
 			}
 		}
@@ -87,8 +96,8 @@
 		{
 			"1"
 			{
-				"name"										"Handel Gothic BT"
-				"tall"										"10"
+				"name"										"handel_gothic_bt"
+				"Tall"										"20"
 				"antialias"									"1"
 			}
 		}
@@ -96,8 +105,8 @@
 		{
 			"1"
 			{
-				"name"										"Harabara Bold"
-				"tall"										"11"
+				"name"										"harabara_bold"
+				"Tall"										"24"
 				"antialias"									"1"
 			}
 		}
@@ -105,8 +114,8 @@
 		{
 			"1"
 			{
-				"name"										"HelveticaNeueLT-BoldExt"
-				"tall"										"10"
+				"name"										"helvetica_neue_lt"
+				"Tall"										"18"
 				"antialias"									"1"
 			}
 		}
@@ -114,8 +123,8 @@
 		{
 			"1"
 			{
-				"name"										"Lato Bold"
-				"tall"										"11"
+				"name"										"lato_bold"
+				"Tall"										"24"
 				"antialias"									"1"
 			}
 		}
@@ -123,8 +132,8 @@
 		{
 			"1"
 			{
-				"name"										"Maven Pro Black"
-				"tall"										"11"
+				"name"										"mavenpro_black"
+				"Tall"										"22"
 				"antialias"									"1"
 			}
 		}
@@ -132,8 +141,8 @@
 		{
 			"1"
 			{
-				"name"										"NeutraText-Bold"
-				"tall"										"11"
+				"name"										"neutra_text_bold"
+				"Tall"										"27"
 				"antialias"									"1"
 			}
 		}
@@ -141,8 +150,8 @@
 		{
 			"1"
 			{
-				"name"										"NexaBold"
-				"tall"										"11"
+				"name"										"nexa_bold"
+				"Tall"										"23"
 				"antialias"									"1"
 			}
 		}
@@ -150,8 +159,8 @@
 		{
 			"1"
 			{
-				"name"										"Noto Sans Bold"
-				"tall"										"11"
+				"name"										"noto_sans_bold"
+				"Tall"										"28"
 				"antialias"									"1"
 			}
 		}
@@ -159,8 +168,8 @@
 		{
 			"1"
 			{
-				"name"										"TT Octosquares Trl Bd"
-				"tall"										"11"
+				"name"										"tt_octosquares_trl_bld"
+				"Tall"										"22"
 				"antialias"									"1"
 			}
 		}
@@ -168,8 +177,8 @@
 		{
 			"1"
 			{
-				"name"										"Product Sans"
-				"tall"										"11"
+				"name"										"product_sans"
+				"Tall"										"26"
 				"antialias"									"1"
 			}
 		}
@@ -177,8 +186,17 @@
 		{
 			"1"
 			{
-				"name"										"Product Sans Bold"
-				"tall"										"11"
+				"name"										"product_sans_bold"
+				"Tall"										"26"
+				"antialias"									"1"
+			}
+		}
+		"Showcase_Raleway"
+		{
+			"1"
+			{
+				"name"										"raleway_bold"
+				"Tall"										"28"
 				"antialias"									"1"
 			}
 		}
@@ -186,8 +204,8 @@
 		{
 			"1"
 			{
-				"name"										"RenogareSoft-Regular"
-				"tall"										"11"
+				"name"										"renogare_soft_regular"
+				"Tall"										"24"
 				"antialias"									"1"
 			}
 		}
@@ -195,8 +213,8 @@
 		{
 			"1"
 			{
-				"name"										"Roboto Bold"
-				"tall"										"11"
+				"name"										"roboto_bold"
+				"Tall"										"25"
 				"antialias"									"1"
 			}
 		}
@@ -204,8 +222,8 @@
 		{
 			"1"
 			{
-				"name"										"Rubik SemiBold"
-				"tall"										"11"
+				"name"										"rubik_semibold"
+				"Tall"										"23"
 				"antialias"									"1"
 			}
 		}
@@ -213,8 +231,8 @@
 		{
 			"1"
 			{
-				"name"										"Sansation Bold"
-				"tall"										"11"
+				"name"										"sansation_bold"
+				"Tall"										"22"
 				"antialias"									"1"
 			}
 		}
@@ -222,8 +240,8 @@
 		{
 			"1"
 			{
-				"name"										"SlatePro-BoldCondensed"
-				"tall"										"11"
+				"name"										"slate_pro_bold_condensed"
+				"Tall"										"25"
 				"antialias"									"1"
 			}
 		}
@@ -231,8 +249,8 @@
 		{
 			"1"
 			{
-				"name"										"Solomon Heavy"
-				"tall"										"10"
+				"name"										"solomon_heavy"
+				"Tall"										"22"
 				"antialias"									"1"
 			}
 		}
@@ -240,8 +258,17 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
-				"tall"										"11"
+				"name"										"surface_medium"
+				"Tall"										"24"
+				"antialias"									"1"
+			}
+		}
+		"Showcase_Surface_Semibold"
+		{
+			"1"
+			{
+				"name"										"surface_semibold"
+				"Tall"										"22"
 				"antialias"									"1"
 			}
 		}
@@ -249,8 +276,8 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Bold"
-				"tall"										"11"
+				"name"										"surface_bold"
+				"Tall"										"24"
 				"antialias"									"1"
 			}
 		}
@@ -258,8 +285,8 @@
 		{
 			"1"
 			{
-				"name"										"SurfaceSharpened-Medium"
-				"tall"										"11"
+				"name"										"surface_sharpened_medium"
+				"Tall"										"24"
 				"antialias"									"1"
 			}
 		}
@@ -267,8 +294,8 @@
 		{
 			"1"
 			{
-				"name"										"TF2 Secondary"
-				"tall"										"11"
+				"name"										"tf2_secondary"
+				"Tall"										"28"
 				"antialias"									"1"
 			}
 		}
@@ -276,8 +303,8 @@
 		{
 			"1"
 			{
-				"name"										"TF2 Build"
-				"tall"										"9"
+				"name"										"tf2_build"
+				"Tall"										"22"
 				"antialias"									"1"
 			}
 		}
@@ -285,8 +312,8 @@
 		{
 			"1"
 			{
-				"name"										"Ubuntu Bold"
-				"tall"										"11"
+				"name"										"ubuntu_bold"
+				"Tall"										"25"
 				"antialias"									"1"
 			}
 		}
@@ -294,8 +321,8 @@
 		{
 			"1"
 			{
-				"name"										"VCR OSD Mono"
-				"tall"										"10"
+				"name"										"vcr_osd_mono"
+				"Tall"										"20"
 				"antialias"									"1"
 			}
 		}
@@ -303,8 +330,8 @@
 		{
 			"1"
 			{
-				"name"										"Verlag-Black"
-				"tall"										"11"
+				"name"										"verlag_black"
+				"Tall"										"27"
 				"antialias"									"1"
 			}
 		}
@@ -312,8 +339,8 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
-				"tall"										"18"
+				"name"										"surface_medium"
+				"Tall"										"18"
 				"antialias"									"1"
 				"outline"									"1"
 			}
@@ -322,8 +349,8 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
-				"tall"										"24"
+				"name"										"surface_medium"
+				"Tall"										"24"
 				"antialias"									"1"
 				"outline"									"1"
 			}
@@ -332,8 +359,8 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
-				"tall"										"30"
+				"name"										"surface_medium"
+				"Tall"										"30"
 				"antialias"									"1"
 				"outline"									"1"
 			}
@@ -342,9 +369,29 @@
 		{
 			"1"
 			{
-				"name"										"TF2Crosshairs_m0re_V3"
-				"tall"										"10"
+				"name"										"tf2_crosshairs_m0re_v3"
+				"Tall"										"13"
 				"antialias"									"1"
+			}
+		}
+		"Crosshair_Showcase_OL"
+		{
+			"1"
+			{
+				"name"										"tf2_crosshairs_m0re_v3"
+				"Tall"										"30"
+				"antialias"									"1"
+				"Outline"									"1"
+			}
+		}
+		"Crosshair_Showcase_DS"
+		{
+			"1"
+			{
+				"name"										"tf2_crosshairs_m0re_v3"
+				"Tall"										"30"
+				"antialias"									"1"
+				"Dropshadow"								"1"
 			}
 		}
 	}
