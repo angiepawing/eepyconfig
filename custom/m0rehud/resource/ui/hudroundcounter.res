@@ -30,7 +30,7 @@
 		"RoundWinPanelRed_KV"
 		{
 			"YPos"									"2"
-			"Wide"									"4"
+			"Wide"									"8"
 			"Tall"									"3"
 			"ZPos"									"8"
 			"Image"									"white"
@@ -40,7 +40,7 @@
 		"RoundWinPanelBlue_KV"
 		{
 			"YPos"									"2"
-			"Wide"									"4"
+			"Wide"									"8"
 			"Tall"									"3"
 			"ZPos"									"8"
 			"Image"									"white"
