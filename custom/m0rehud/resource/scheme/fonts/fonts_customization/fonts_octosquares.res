@@ -6,84 +6,84 @@
 		{
 			"1"
 			{
-				"name"										"tt_octosquares_trl_bld"
+				"name"										"TT Octosquares Trl Bd"
 			}
 		}
 		"m0refont10"
 		{
 			"1"
 			{
-				"name"										"tt_octosquares_trl_bld"
+				"name"										"TT Octosquares Trl Bd"
 			}
 		}
 		"m0refont10Shadow"
 		{
 			"1"
 			{
-				"name"										"tt_octosquares_trl_bld"
+				"name"										"TT Octosquares Trl Bd"
 			}
 		}
 		"m0refont11"
 		{
 			"1"
 			{
-				"name"										"tt_octosquares_trl_bld"
+				"name"										"TT Octosquares Trl Bd"
 			}
 		}
 		"m0refont11Shadow"
 		{
 			"1"
 			{
-				"name"										"tt_octosquares_trl_bld"
+				"name"										"TT Octosquares Trl Bd"
 			}
 		}
 		"m0refont12"
 		{
 			"1"
 			{
-				"name"										"tt_octosquares_trl_bld"
+				"name"										"TT Octosquares Trl Bd"
 			}
 		}
 		"m0refont12Shadow"
 		{
 			"1"
 			{
-				"name"										"tt_octosquares_trl_bld"
+				"name"										"TT Octosquares Trl Bd"
 			}
 		}
 		"m0refont14"
 		{
 			"1"
 			{
-				"name"										"tt_octosquares_trl_bld"
+				"name"										"TT Octosquares Trl Bd"
 			}
 		}
 		"m0refont14Shadow"
 		{
 			"1"
 			{
-				"name"										"tt_octosquares_trl_bld"
+				"name"										"TT Octosquares Trl Bd"
 			}
 		}
 		"m0refont16"
 		{
 			"1"
 			{
-				"name"										"tt_octosquares_trl_bld"
+				"name"										"TT Octosquares Trl Bd"
 			}
 		}
 		"m0refont16Shadow"
 		{
 			"1"
 			{
-				"name"										"tt_octosquares_trl_bld"
+				"name"										"TT Octosquares Trl Bd"
 			}
 		}
 		"m0refont18"
 		{
 			"1"
 			{
-				"name"										"tt_octosquares_trl_bld"
+				"name"										"TT Octosquares Trl Bd"
 				"Tall"										"17"
 			}
 		}
@@ -91,7 +91,7 @@
 		{
 			"1"
 			{
-				"name"										"tt_octosquares_trl_bld"
+				"name"										"TT Octosquares Trl Bd"
 				"Tall"										"17"
 			}
 		}
@@ -99,7 +99,7 @@
 		{
 			"1"
 			{
-				"name"										"tt_octosquares_trl_bld"
+				"name"										"TT Octosquares Trl Bd"
 				"Tall"										"17"
 			}
 		}
@@ -107,7 +107,7 @@
 		{
 			"1"
 			{
-				"name"										"octosquares_numbers"
+				"name"										"TT Octosquares Numbers"
 				"Tall"										"17"
 			}
 		}
@@ -115,7 +115,7 @@
 		{
 			"1"
 			{
-				"name"										"tt_octosquares_trl_bld"
+				"name"										"TT Octosquares Trl Bd"
 				"Tall"										"18"
 			}
 		}
@@ -123,7 +123,7 @@
 		{
 			"1"
 			{
-				"name"										"tt_octosquares_trl_bld"
+				"name"										"TT Octosquares Trl Bd"
 				"Tall"										"20"
 			}
 		}
@@ -131,7 +131,7 @@
 		{
 			"1"
 			{
-				"name"										"tt_octosquares_trl_bld"
+				"name"										"TT Octosquares Trl Bd"
 				"Tall"										"20"
 			}
 		}
@@ -139,7 +139,7 @@
 		{
 			"1"
 			{
-				"name"										"tt_octosquares_trl_bld"
+				"name"										"TT Octosquares Trl Bd"
 				"Tall"										"20"
 			}
 		}
@@ -147,7 +147,7 @@
 		{
 			"1"
 			{
-				"name"										"octosquares_numbers"
+				"name"										"TT Octosquares Numbers"
 				"Tall"										"20"
 			}
 		}
@@ -155,7 +155,7 @@
 		{
 			"1"
 			{
-				"name"										"tt_octosquares_trl_bld"
+				"name"										"TT Octosquares Trl Bd"
 				"Tall"										"22"
 			}
 		}
@@ -163,7 +163,7 @@
 		{
 			"1"
 			{
-				"name"										"tt_octosquares_trl_bld"
+				"name"										"TT Octosquares Trl Bd"
 				"Tall"										"26"
 			}
 		}
@@ -171,7 +171,7 @@
 		{
 			"1"
 			{
-				"name"										"tt_octosquares_trl_bld"
+				"name"										"TT Octosquares Trl Bd"
 				"Tall"										"26"
 			}
 		}
@@ -179,7 +179,7 @@
 		{
 			"1"
 			{
-				"name"										"octosquares_numbers"
+				"name"										"TT Octosquares Numbers"
 				"Tall"										"26"
 			}
 		}
@@ -187,7 +187,7 @@
 		{
 			"1"
 			{
-				"name"										"tt_octosquares_trl_bld"
+				"name"										"TT Octosquares Trl Bd"
 				"Tall"										"28"
 			}
 		}
@@ -195,7 +195,7 @@
 		{
 			"1"
 			{
-				"name"										"tt_octosquares_trl_bld"
+				"name"										"TT Octosquares Trl Bd"
 				"Tall"										"28"
 			}
 		}
@@ -203,7 +203,7 @@
 		{
 			"1"
 			{
-				"name"										"tt_octosquares_trl_bld"
+				"name"										"TT Octosquares Trl Bd"
 				"Tall"										"30"
 			}
 		}
@@ -211,7 +211,7 @@
 		{
 			"1"
 			{
-				"name"										"tt_octosquares_trl_bld"
+				"name"										"TT Octosquares Trl Bd"
 				"Tall"										"40"
 			}
 		}
@@ -219,7 +219,7 @@
 		{
 			"1"
 			{
-				"name"										"tt_octosquares_trl_bld"
+				"name"										"TT Octosquares Trl Bd"
 				"Tall"										"48"
 			}
 		}
@@ -227,58 +227,58 @@
 		{
 			"1"
 			{
-				"name"										"tt_octosquares_trl_bld"
+				"name"										"TT Octosquares Trl Bd"
 			}
 			"2"
 			{
-				"name"										"tt_octosquares_trl_bld"
+				"name"										"TT Octosquares Trl Bd"
 			}
 			"3"
 			{
-				"name"										"tt_octosquares_trl_bld"
+				"name"										"TT Octosquares Trl Bd"
 			}
 			"4"
 			{
-				"name"										"tt_octosquares_trl_bld"
+				"name"										"TT Octosquares Trl Bd"
 			}
 			"5"
 			{
-				"name"										"tt_octosquares_trl_bld"
+				"name"										"TT Octosquares Trl Bd"
 			}
 		}
-		"CloseCaption"
+		"CloseCaption_Normal"
 		{
 			"1"
 			{
-				"name"										"tt_octosquares_trl_bld"
+				"name"										"TT Octosquares Trl Bd"
 			}
 		}
 		"CloseCaption_Italic"
 		{
 			"1"
 			{
-				"name"										"tt_octosquares_trl_bld"
+				"name"										"TT Octosquares Trl Bd"
 			}
 		}
 		"CloseCaption_Bold"
 		{
 			"1"
 			{
-				"name"										"tt_octosquares_trl_bld"
+				"name"										"TT Octosquares Trl Bd"
 			}
 		}
 		"CloseCaption_BoldItalic"
 		{
 			"1"
 			{
-				"name"										"tt_octosquares_trl_bld"
+				"name"										"TT Octosquares Trl Bd"
 			}
 		}
 		"CloseCaption_Small"
 		{
 			"1"
 			{
-				"name"										"tt_octosquares_trl_bld"
+				"name"										"TT Octosquares Trl Bd"
 			}
 		}
 	}

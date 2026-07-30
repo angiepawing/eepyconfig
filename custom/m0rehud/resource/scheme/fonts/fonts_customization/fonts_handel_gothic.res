@@ -6,7 +6,7 @@
 		{
 			"1"
 			{
-				"name"										"handel_gothic_bt"
+				"name"										"Handel Gothic BT"
 				"Tall"										"8"
 			}
 		}
@@ -14,7 +14,7 @@
 		{
 			"1"
 			{
-				"name"										"handel_gothic_bt"
+				"name"										"Handel Gothic BT"
 				"Tall"										"9"
 			}
 		}
@@ -22,7 +22,7 @@
 		{
 			"1"
 			{
-				"name"										"handel_gothic_bt"
+				"name"										"Handel Gothic BT"
 				"Tall"										"9"
 			}
 		}
@@ -30,7 +30,7 @@
 		{
 			"1"
 			{
-				"name"										"handel_gothic_bt"
+				"name"										"Handel Gothic BT"
 				"Tall"										"10"
 			}
 		}
@@ -38,7 +38,7 @@
 		{
 			"1"
 			{
-				"name"										"handel_gothic_bt"
+				"name"										"Handel Gothic BT"
 				"Tall"										"10"
 			}
 		}
@@ -46,7 +46,7 @@
 		{
 			"1"
 			{
-				"name"										"handel_gothic_bt"
+				"name"										"Handel Gothic BT"
 				"Tall"										"11"
 			}
 		}
@@ -54,7 +54,7 @@
 		{
 			"1"
 			{
-				"name"										"handel_gothic_bt"
+				"name"										"Handel Gothic BT"
 				"Tall"										"11"
 			}
 		}
@@ -62,7 +62,7 @@
 		{
 			"1"
 			{
-				"name"										"handel_gothic_bt"
+				"name"										"Handel Gothic BT"
 				"Tall"										"12"
 			}
 		}
@@ -70,7 +70,7 @@
 		{
 			"1"
 			{
-				"name"										"handel_gothic_bt"
+				"name"										"Handel Gothic BT"
 				"Tall"										"12"
 			}
 		}
@@ -78,7 +78,7 @@
 		{
 			"1"
 			{
-				"name"										"handel_gothic_bt"
+				"name"										"Handel Gothic BT"
 				"Tall"										"13"
 			}
 		}
@@ -86,7 +86,7 @@
 		{
 			"1"
 			{
-				"name"										"handel_gothic_bt"
+				"name"										"Handel Gothic BT"
 				"Tall"										"13"
 			}
 		}
@@ -94,7 +94,7 @@
 		{
 			"1"
 			{
-				"name"										"handel_gothic_bt"
+				"name"										"Handel Gothic BT"
 				"Tall"										"15"
 			}
 		}
@@ -102,7 +102,7 @@
 		{
 			"1"
 			{
-				"name"										"handel_gothic_bt"
+				"name"										"Handel Gothic BT"
 				"Tall"										"15"
 			}
 		}
@@ -110,7 +110,7 @@
 		{
 			"1"
 			{
-				"name"										"handel_gothic_bt"
+				"name"										"Handel Gothic BT"
 				"Tall"										"15"
 			}
 		}
@@ -118,7 +118,7 @@
 		{
 			"1"
 			{
-				"name"										"handel_gothic_numbers"
+				"name"										"HandelGothic BT Numbers"
 				"Tall"										"15"
 			}
 		}
@@ -126,7 +126,7 @@
 		{
 			"1"
 			{
-				"name"										"handel_gothic_bt"
+				"name"										"Handel Gothic BT"
 				"Tall"										"17"
 			}
 		}
@@ -134,7 +134,7 @@
 		{
 			"1"
 			{
-				"name"										"handel_gothic_bt"
+				"name"										"Handel Gothic BT"
 				"Tall"										"19"
 			}
 		}
@@ -142,7 +142,7 @@
 		{
 			"1"
 			{
-				"name"										"handel_gothic_bt"
+				"name"										"Handel Gothic BT"
 				"Tall"										"19"
 			}
 		}
@@ -150,7 +150,7 @@
 		{
 			"1"
 			{
-				"name"										"handel_gothic_bt"
+				"name"										"Handel Gothic BT"
 				"Tall"										"19"
 			}
 		}
@@ -158,7 +158,7 @@
 		{
 			"1"
 			{
-				"name"										"handel_gothic_numbers"
+				"name"										"HandelGothic BT Numbers"
 				"Tall"										"19"
 			}
 		}
@@ -166,7 +166,7 @@
 		{
 			"1"
 			{
-				"name"										"handel_gothic_bt"
+				"name"										"Handel Gothic BT"
 				"Tall"										"22"
 			}
 		}
@@ -174,7 +174,7 @@
 		{
 			"1"
 			{
-				"name"										"handel_gothic_bt"
+				"name"										"Handel Gothic BT"
 				"Tall"										"25"
 			}
 		}
@@ -182,7 +182,7 @@
 		{
 			"1"
 			{
-				"name"										"handel_gothic_bt"
+				"name"										"Handel Gothic BT"
 				"Tall"										"25"
 			}
 		}
@@ -190,7 +190,7 @@
 		{
 			"1"
 			{
-				"name"										"handel_gothic_numbers"
+				"name"										"HandelGothic BT Numbers"
 				"Tall"										"25"
 			}
 		}
@@ -198,7 +198,7 @@
 		{
 			"1"
 			{
-				"name"										"handel_gothic_bt"
+				"name"										"Handel Gothic BT"
 				"Tall"										"26"
 			}
 		}
@@ -206,7 +206,7 @@
 		{
 			"1"
 			{
-				"name"										"handel_gothic_bt"
+				"name"										"Handel Gothic BT"
 				"Tall"										"26"
 			}
 		}
@@ -214,7 +214,7 @@
 		{
 			"1"
 			{
-				"name"										"handel_gothic_bt"
+				"name"										"Handel Gothic BT"
 				"Tall"										"28"
 			}
 		}
@@ -222,7 +222,7 @@
 		{
 			"1"
 			{
-				"name"										"handel_gothic_bt"
+				"name"										"Handel Gothic BT"
 				"Tall"										"36"
 			}
 		}
@@ -230,7 +230,7 @@
 		{
 			"1"
 			{
-				"name"										"handel_gothic_bt"
+				"name"										"Handel Gothic BT"
 				"Tall"										"42"
 			}
 		}
@@ -238,67 +238,68 @@
 		{
 			"1"
 			{
-				"name"										"handel_gothic_bt"
+				"name"										"Handel Gothic BT"
 				"Tall"										"11"
 			}
 			"2"
 			{
-				"name"										"handel_gothic_bt"
+				"name"										"Handel Gothic BT"
 				"Tall"										"14"
 			}
 			"3"
 			{
-				"name"										"handel_gothic_bt"
+				"name"										"Handel Gothic BT"
 				"Tall"										"18"
 			}
 			"4"
 			{
-				"name"										"handel_gothic_bt"
+				"name"										"Handel Gothic BT"
 				"Tall"										"20"
 			}
 			"5"
 			{
-				"name"										"handel_gothic_bt"
+				"name"										"Handel Gothic BT"
+				"Tall"										"20"
 			}
 		}
-		"CloseCaption"
+		"CloseCaption_Normal"
 		{
 			"1"
 			{
-				"name"										"handel_gothic_bt"
-				"Tall"										"10"
+				"name"										"Handel Gothic BT"
+				"Tall"										"12"
 			}
 		}
 		"CloseCaption_Italic"
 		{
 			"1"
 			{
-				"name"										"handel_gothic_bt"
-				"Tall"										"10"
+				"name"										"Handel Gothic BT"
+				"Tall"										"12"
 			}
 		}
 		"CloseCaption_Bold"
 		{
 			"1"
 			{
-				"name"										"handel_gothic_bt"
-				"Tall"										"10"
+				"name"										"Handel Gothic BT"
+				"Tall"										"12"
 			}
 		}
 		"CloseCaption_BoldItalic"
 		{
 			"1"
 			{
-				"name"										"handel_gothic_bt"
-				"Tall"										"10"
+				"name"										"Handel Gothic BT"
+				"Tall"										"12"
 			}
 		}
 		"CloseCaption_Small"
 		{
 			"1"
 			{
-				"name"										"handel_gothic_bt"
-				"Tall"										"10"
+				"name"										"Handel Gothic BT"
+				"Tall"										"9"
 			}
 		}
 	}

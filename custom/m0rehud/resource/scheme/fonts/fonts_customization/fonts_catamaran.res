@@ -6,7 +6,7 @@
 		{
 			"1"
 			{
-				"name"										"catamaran_semibold"
+				"name"										"Catamaran SemiBold"
 				"Tall"										"11"
 			}
 		}
@@ -14,7 +14,7 @@
 		{
 			"1"
 			{
-				"name"										"catamaran_semibold"
+				"name"										"Catamaran SemiBold"
 				"Tall"										"13"
 			}
 		}
@@ -22,7 +22,7 @@
 		{
 			"1"
 			{
-				"name"										"catamaran_semibold"
+				"name"										"Catamaran SemiBold"
 				"Tall"										"13"
 			}
 		}
@@ -30,7 +30,7 @@
 		{
 			"1"
 			{
-				"name"										"catamaran_semibold"
+				"name"										"Catamaran SemiBold"
 				"Tall"										"15"
 			}
 		}
@@ -38,7 +38,7 @@
 		{
 			"1"
 			{
-				"name"										"catamaran_semibold"
+				"name"										"Catamaran SemiBold"
 				"Tall"										"15"
 			}
 		}
@@ -46,7 +46,7 @@
 		{
 			"1"
 			{
-				"name"										"catamaran_semibold"
+				"name"										"Catamaran SemiBold"
 				"Tall"										"16"
 			}
 		}
@@ -54,7 +54,7 @@
 		{
 			"1"
 			{
-				"name"										"catamaran_semibold"
+				"name"										"Catamaran SemiBold"
 				"Tall"										"16"
 			}
 		}
@@ -62,7 +62,7 @@
 		{
 			"1"
 			{
-				"name"										"catamaran_semibold"
+				"name"										"Catamaran SemiBold"
 				"Tall"										"18"
 			}
 		}
@@ -70,7 +70,7 @@
 		{
 			"1"
 			{
-				"name"										"catamaran_semibold"
+				"name"										"Catamaran SemiBold"
 				"Tall"										"18"
 			}
 		}
@@ -78,7 +78,7 @@
 		{
 			"1"
 			{
-				"name"										"catamaran_semibold"
+				"name"										"Catamaran SemiBold"
 				"Tall"										"20"
 			}
 		}
@@ -86,7 +86,7 @@
 		{
 			"1"
 			{
-				"name"										"catamaran_semibold"
+				"name"										"Catamaran SemiBold"
 				"Tall"										"20"
 			}
 		}
@@ -94,7 +94,7 @@
 		{
 			"1"
 			{
-				"name"										"catamaran_semibold"
+				"name"										"Catamaran SemiBold"
 				"Tall"										"23"
 			}
 		}
@@ -102,7 +102,7 @@
 		{
 			"1"
 			{
-				"name"										"catamaran_semibold"
+				"name"										"Catamaran SemiBold"
 				"Tall"										"23"
 			}
 		}
@@ -110,7 +110,7 @@
 		{
 			"1"
 			{
-				"name"										"catamaran_semibold"
+				"name"										"Catamaran SemiBold"
 				"Tall"										"23"
 			}
 		}
@@ -118,7 +118,7 @@
 		{
 			"1"
 			{
-				"name"										"catamaran_semibold_numbers"
+				"name"										"Catamaran-SemiBold-Numbers"
 				"Tall"										"23"
 			}
 		}
@@ -126,7 +126,7 @@
 		{
 			"1"
 			{
-				"name"										"catamaran_semibold"
+				"name"										"Catamaran SemiBold"
 				"Tall"										"26"
 			}
 		}
@@ -134,7 +134,7 @@
 		{
 			"1"
 			{
-				"name"										"catamaran_semibold"
+				"name"										"Catamaran SemiBold"
 				"Tall"										"31"
 			}
 		}
@@ -142,7 +142,7 @@
 		{
 			"1"
 			{
-				"name"										"catamaran_semibold"
+				"name"										"Catamaran SemiBold"
 				"Tall"										"31"
 			}
 		}
@@ -150,7 +150,7 @@
 		{
 			"1"
 			{
-				"name"										"catamaran_semibold"
+				"name"										"Catamaran SemiBold"
 				"Tall"										"31"
 			}
 		}
@@ -158,7 +158,7 @@
 		{
 			"1"
 			{
-				"name"										"catamaran_semibold_numbers"
+				"name"										"Catamaran-SemiBold-Numbers"
 				"Tall"										"31"
 			}
 		}
@@ -166,7 +166,7 @@
 		{
 			"1"
 			{
-				"name"										"catamaran_semibold"
+				"name"										"Catamaran SemiBold"
 				"Tall"										"34"
 			}
 		}
@@ -174,7 +174,7 @@
 		{
 			"1"
 			{
-				"name"										"catamaran_semibold"
+				"name"										"Catamaran SemiBold"
 				"Tall"										"39"
 			}
 		}
@@ -182,7 +182,7 @@
 		{
 			"1"
 			{
-				"name"										"catamaran_semibold"
+				"name"										"Catamaran SemiBold"
 				"Tall"										"39"
 			}
 		}
@@ -190,7 +190,7 @@
 		{
 			"1"
 			{
-				"name"										"catamaran_semibold_numbers"
+				"name"										"Catamaran-SemiBold-Numbers"
 				"Tall"										"39"
 			}
 		}
@@ -198,7 +198,7 @@
 		{
 			"1"
 			{
-				"name"										"catamaran_semibold"
+				"name"										"Catamaran SemiBold"
 				"Tall"										"42"
 			}
 		}
@@ -206,7 +206,7 @@
 		{
 			"1"
 			{
-				"name"										"catamaran_semibold"
+				"name"										"Catamaran SemiBold"
 				"Tall"										"42"
 			}
 		}
@@ -214,7 +214,7 @@
 		{
 			"1"
 			{
-				"name"										"catamaran_semibold"
+				"name"										"Catamaran SemiBold"
 				"Tall"										"48"
 			}
 		}
@@ -222,7 +222,7 @@
 		{
 			"1"
 			{
-				"name"										"catamaran_semibold"
+				"name"										"Catamaran SemiBold"
 				"Tall"										"60"
 			}
 		}
@@ -230,7 +230,7 @@
 		{
 			"1"
 			{
-				"name"										"catamaran_semibold"
+				"name"										"Catamaran SemiBold"
 				"Tall"										"72"
 			}
 		}
@@ -238,34 +238,35 @@
 		{
 			"1"
 			{
-				"name"										"catamaran_semibold"
+				"name"										"Catamaran SemiBold"
 				"Tall"										"18"
 			}
 			"2"
 			{
-				"name"										"catamaran_semibold"
+				"name"										"Catamaran SemiBold"
 				"Tall"										"23"
 			}
 			"3"
 			{
-				"name"										"catamaran_semibold"
+				"name"										"Catamaran SemiBold"
 				"Tall"										"28"
 			}
 			"4"
 			{
-				"name"										"catamaran_semibold"
+				"name"										"Catamaran SemiBold"
 				"Tall"										"30"
 			}
 			"5"
 			{
-				"name"										"catamaran_semibold"
+				"name"										"Catamaran SemiBold"
+				"Tall"										"11"
 			}
 		}
-		"CloseCaption"
+		"CloseCaption_Normal"
 		{
 			"1"
 			{
-				"name"										"catamaran_semibold"
+				"name"										"Catamaran SemiBold"
 				"Tall"										"16"
 			}
 		}
@@ -273,7 +274,7 @@
 		{
 			"1"
 			{
-				"name"										"catamaran_semibold"
+				"name"										"Catamaran SemiBold"
 				"Tall"										"16"
 			}
 		}
@@ -281,7 +282,7 @@
 		{
 			"1"
 			{
-				"name"										"catamaran_semibold"
+				"name"										"Catamaran SemiBold"
 				"Tall"										"16"
 			}
 		}
@@ -289,7 +290,7 @@
 		{
 			"1"
 			{
-				"name"										"catamaran_semibold"
+				"name"										"Catamaran SemiBold"
 				"Tall"										"16"
 			}
 		}
@@ -297,7 +298,7 @@
 		{
 			"1"
 			{
-				"name"										"catamaran_semibold"
+				"name"										"Catamaran SemiBold"
 			}
 		}
 	}

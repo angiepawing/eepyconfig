@@ -6,7 +6,7 @@
 		{
 			"1"
 			{
-				"name"										"slate_pro_bold_condensed"
+				"name"										"SlatePro-BoldCondensed"
 				"Tall"										"8"
 			}
 		}
@@ -14,7 +14,7 @@
 		{
 			"1"
 			{
-				"name"										"slate_pro_bold_condensed"
+				"name"										"SlatePro-BoldCondensed"
 				"Tall"										"9"
 			}
 		}
@@ -22,7 +22,7 @@
 		{
 			"1"
 			{
-				"name"										"slate_pro_bold_condensed"
+				"name"										"SlatePro-BoldCondensed"
 				"Tall"										"9"
 			}
 		}
@@ -30,7 +30,7 @@
 		{
 			"1"
 			{
-				"name"										"slate_pro_bold_condensed"
+				"name"										"SlatePro-BoldCondensed"
 				"Tall"										"10"
 			}
 		}
@@ -38,7 +38,7 @@
 		{
 			"1"
 			{
-				"name"										"slate_pro_bold_condensed"
+				"name"										"SlatePro-BoldCondensed"
 				"Tall"										"10"
 			}
 		}
@@ -46,7 +46,7 @@
 		{
 			"1"
 			{
-				"name"										"slate_pro_bold_condensed"
+				"name"										"SlatePro-BoldCondensed"
 				"Tall"										"11"
 			}
 		}
@@ -54,7 +54,7 @@
 		{
 			"1"
 			{
-				"name"										"slate_pro_bold_condensed"
+				"name"										"SlatePro-BoldCondensed"
 				"Tall"										"11"
 			}
 		}
@@ -62,7 +62,7 @@
 		{
 			"1"
 			{
-				"name"										"slate_pro_bold_condensed"
+				"name"										"SlatePro-BoldCondensed"
 				"Tall"										"12"
 			}
 		}
@@ -70,7 +70,7 @@
 		{
 			"1"
 			{
-				"name"										"slate_pro_bold_condensed"
+				"name"										"SlatePro-BoldCondensed"
 				"Tall"										"12"
 			}
 		}
@@ -78,7 +78,7 @@
 		{
 			"1"
 			{
-				"name"										"slate_pro_bold_condensed"
+				"name"										"SlatePro-BoldCondensed"
 				"Tall"										"14"
 			}
 		}
@@ -86,7 +86,7 @@
 		{
 			"1"
 			{
-				"name"										"slate_pro_bold_condensed"
+				"name"										"SlatePro-BoldCondensed"
 				"Tall"										"14"
 			}
 		}
@@ -94,7 +94,7 @@
 		{
 			"1"
 			{
-				"name"										"slate_pro_bold_condensed"
+				"name"										"SlatePro-BoldCondensed"
 				"Tall"										"16"
 			}
 		}
@@ -102,7 +102,7 @@
 		{
 			"1"
 			{
-				"name"										"slate_pro_bold_condensed"
+				"name"										"SlatePro-BoldCondensed"
 				"Tall"										"16"
 			}
 		}
@@ -110,7 +110,7 @@
 		{
 			"1"
 			{
-				"name"										"slate_pro_bold_condensed"
+				"name"										"SlatePro-BoldCondensed"
 				"Tall"										"16"
 			}
 		}
@@ -118,7 +118,7 @@
 		{
 			"1"
 			{
-				"name"										"slate_numbers"
+				"name"										"Slate Pro Numbers"
 				"Tall"										"16"
 			}
 		}
@@ -126,7 +126,7 @@
 		{
 			"1"
 			{
-				"name"										"slate_pro_bold_condensed"
+				"name"										"SlatePro-BoldCondensed"
 				"Tall"										"18"
 			}
 		}
@@ -134,7 +134,7 @@
 		{
 			"1"
 			{
-				"name"										"slate_pro_bold_condensed"
+				"name"										"SlatePro-BoldCondensed"
 				"Tall"										"22"
 			}
 		}
@@ -142,7 +142,7 @@
 		{
 			"1"
 			{
-				"name"										"slate_pro_bold_condensed"
+				"name"										"SlatePro-BoldCondensed"
 				"Tall"										"22"
 			}
 		}
@@ -150,7 +150,7 @@
 		{
 			"1"
 			{
-				"name"										"slate_pro_bold_condensed"
+				"name"										"SlatePro-BoldCondensed"
 				"Tall"										"22"
 			}
 		}
@@ -158,7 +158,7 @@
 		{
 			"1"
 			{
-				"name"										"slate_numbers"
+				"name"										"Slate Pro Numbers"
 				"Tall"										"22"
 			}
 		}
@@ -166,7 +166,7 @@
 		{
 			"1"
 			{
-				"name"										"slate_pro_bold_condensed"
+				"name"										"SlatePro-BoldCondensed"
 				"Tall"										"24"
 			}
 		}
@@ -174,7 +174,7 @@
 		{
 			"1"
 			{
-				"name"										"slate_pro_bold_condensed"
+				"name"										"SlatePro-BoldCondensed"
 				"Tall"										"28"
 			}
 		}
@@ -182,7 +182,7 @@
 		{
 			"1"
 			{
-				"name"										"slate_pro_bold_condensed"
+				"name"										"SlatePro-BoldCondensed"
 				"Tall"										"28"
 			}
 		}
@@ -190,7 +190,7 @@
 		{
 			"1"
 			{
-				"name"										"slate_numbers"
+				"name"										"Slate Pro Numbers"
 				"Tall"										"28"
 			}
 		}
@@ -198,7 +198,7 @@
 		{
 			"1"
 			{
-				"name"										"slate_pro_bold_condensed"
+				"name"										"SlatePro-BoldCondensed"
 				"Tall"										"30"
 			}
 		}
@@ -206,7 +206,7 @@
 		{
 			"1"
 			{
-				"name"										"slate_pro_bold_condensed"
+				"name"										"SlatePro-BoldCondensed"
 				"Tall"										"30"
 			}
 		}
@@ -214,7 +214,7 @@
 		{
 			"1"
 			{
-				"name"										"slate_pro_bold_condensed"
+				"name"										"SlatePro-BoldCondensed"
 				"Tall"										"32"
 			}
 		}
@@ -222,7 +222,7 @@
 		{
 			"1"
 			{
-				"name"										"slate_pro_bold_condensed"
+				"name"										"SlatePro-BoldCondensed"
 				"Tall"										"42"
 			}
 		}
@@ -230,7 +230,7 @@
 		{
 			"1"
 			{
-				"name"										"slate_pro_bold_condensed"
+				"name"										"SlatePro-BoldCondensed"
 				"Tall"										"50"
 			}
 		}
@@ -238,58 +238,58 @@
 		{
 			"1"
 			{
-				"name"										"slate_pro_bold_condensed"
+				"name"										"SlatePro-BoldCondensed"
 			}
 			"2"
 			{
-				"name"										"slate_pro_bold_condensed"
+				"name"										"SlatePro-BoldCondensed"
 			}
 			"3"
 			{
-				"name"										"slate_pro_bold_condensed"
+				"name"										"SlatePro-BoldCondensed"
 			}
 			"4"
 			{
-				"name"										"slate_pro_bold_condensed"
+				"name"										"SlatePro-BoldCondensed"
 			}
 			"5"
 			{
-				"name"										"slate_pro_bold_condensed"
+				"name"										"SlatePro-BoldCondensed"
 			}
 		}
-		"CloseCaption"
+		"CloseCaption_Normal"
 		{
 			"1"
 			{
-				"name"										"slate_pro_bold_condensed"
+				"name"										"SlatePro-BoldCondensed"
 			}
 		}
 		"CloseCaption_Italic"
 		{
 			"1"
 			{
-				"name"										"slate_pro_bold_condensed"
+				"name"										"SlatePro-BoldCondensed"
 			}
 		}
 		"CloseCaption_Bold"
 		{
 			"1"
 			{
-				"name"										"slate_pro_bold_condensed"
+				"name"										"SlatePro-BoldCondensed"
 			}
 		}
 		"CloseCaption_BoldItalic"
 		{
 			"1"
 			{
-				"name"										"slate_pro_bold_condensed"
+				"name"										"SlatePro-BoldCondensed"
 			}
 		}
 		"CloseCaption_Small"
 		{
 			"1"
 			{
-				"name"										"slate_pro_bold_condensed"
+				"name"										"SlatePro-BoldCondensed"
 			}
 		}
 	}

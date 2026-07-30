@@ -6,119 +6,119 @@
 		{
 			"1"
 			{
-				"name"										"nexa_bold"
+				"name"										"NexaBold"
 			}
 		}
 		"m0refont10"
 		{
 			"1"
 			{
-				"name"										"nexa_bold"
+				"name"										"NexaBold"
 			}
 		}
 		"m0refont10Shadow"
 		{
 			"1"
 			{
-				"name"										"nexa_bold"
+				"name"										"NexaBold"
 			}
 		}
 		"m0refont11"
 		{
 			"1"
 			{
-				"name"										"nexa_bold"
+				"name"										"NexaBold"
 			}
 		}
 		"m0refont11Shadow"
 		{
 			"1"
 			{
-				"name"										"nexa_bold"
+				"name"										"NexaBold"
 			}
 		}
 		"m0refont12"
 		{
 			"1"
 			{
-				"name"										"nexa_bold"
+				"name"										"NexaBold"
 			}
 		}
 		"m0refont12Shadow"
 		{
 			"1"
 			{
-				"name"										"nexa_bold"
+				"name"										"NexaBold"
 			}
 		}
 		"m0refont14"
 		{
 			"1"
 			{
-				"name"										"nexa_bold"
+				"name"										"NexaBold"
 			}
 		}
 		"m0refont14Shadow"
 		{
 			"1"
 			{
-				"name"										"nexa_bold"
+				"name"										"NexaBold"
 			}
 		}
 		"m0refont16"
 		{
 			"1"
 			{
-				"name"										"nexa_bold"
+				"name"										"NexaBold"
 			}
 		}
 		"m0refont16Shadow"
 		{
 			"1"
 			{
-				"name"										"nexa_bold"
+				"name"										"NexaBold"
 			}
 		}
 		"m0refont18"
 		{
 			"1"
 			{
-				"name"										"nexa_bold"
+				"name"										"NexaBold"
 			}
 		}
 		"m0refont18Shadow"
 		{
 			"1"
 			{
-				"name"										"nexa_bold"
+				"name"										"NexaBold"
 			}
 		}
 		"m0refont18Outline"
 		{
 			"1"
 			{
-				"name"										"nexa_bold"
+				"name"										"NexaBold"
 			}
 		}
 		"m0refont18Numbers"
 		{
 			"1"
 			{
-				"name"										"nexa_numbers"
+				"name"										"Nexa-Numbers"
 			}
 		}
 		"m0refont20"
 		{
 			"1"
 			{
-				"name"										"nexa_bold"
+				"name"										"NexaBold"
 			}
 		}
 		"m0refont24"
 		{
 			"1"
 			{
-				"name"										"nexa_bold"
+				"name"										"NexaBold"
 				"Tall"										"22"
 			}
 		}
@@ -126,7 +126,7 @@
 		{
 			"1"
 			{
-				"name"										"nexa_bold"
+				"name"										"NexaBold"
 				"Tall"										"22"
 			}
 		}
@@ -134,7 +134,7 @@
 		{
 			"1"
 			{
-				"name"										"nexa_bold"
+				"name"										"NexaBold"
 				"Tall"										"22"
 			}
 		}
@@ -142,7 +142,7 @@
 		{
 			"1"
 			{
-				"name"										"nexa_numbers"
+				"name"										"Nexa-Numbers"
 				"Tall"										"22"
 			}
 		}
@@ -150,7 +150,7 @@
 		{
 			"1"
 			{
-				"name"										"nexa_bold"
+				"name"										"NexaBold"
 				"Tall"										"24"
 			}
 		}
@@ -158,7 +158,7 @@
 		{
 			"1"
 			{
-				"name"										"nexa_bold"
+				"name"										"NexaBold"
 				"Tall"										"26"
 			}
 		}
@@ -166,7 +166,7 @@
 		{
 			"1"
 			{
-				"name"										"nexa_bold"
+				"name"										"NexaBold"
 				"Tall"										"26"
 			}
 		}
@@ -174,7 +174,7 @@
 		{
 			"1"
 			{
-				"name"										"nexa_numbers"
+				"name"										"Nexa-Numbers"
 				"Tall"										"26"
 			}
 		}
@@ -182,7 +182,7 @@
 		{
 			"1"
 			{
-				"name"										"nexa_bold"
+				"name"										"NexaBold"
 				"Tall"										"28"
 			}
 		}
@@ -190,7 +190,7 @@
 		{
 			"1"
 			{
-				"name"										"nexa_bold"
+				"name"										"NexaBold"
 				"Tall"										"28"
 			}
 		}
@@ -198,7 +198,7 @@
 		{
 			"1"
 			{
-				"name"										"nexa_bold"
+				"name"										"NexaBold"
 				"Tall"										"30"
 			}
 		}
@@ -206,7 +206,7 @@
 		{
 			"1"
 			{
-				"name"										"nexa_bold"
+				"name"										"NexaBold"
 				"Tall"										"40"
 			}
 		}
@@ -214,7 +214,7 @@
 		{
 			"1"
 			{
-				"name"										"nexa_bold"
+				"name"										"NexaBold"
 				"Tall"										"48"
 			}
 		}
@@ -222,58 +222,58 @@
 		{
 			"1"
 			{
-				"name"										"nexa_bold"
+				"name"										"NexaBold"
 			}
 			"2"
 			{
-				"name"										"nexa_bold"
+				"name"										"NexaBold"
 			}
 			"3"
 			{
-				"name"										"nexa_bold"
+				"name"										"NexaBold"
 			}
 			"4"
 			{
-				"name"										"nexa_bold"
+				"name"										"NexaBold"
 			}
 			"5"
 			{
-				"name"										"nexa_bold"
+				"name"										"NexaBold"
 			}
 		}
-		"CloseCaption"
+		"CloseCaption_Normal"
 		{
 			"1"
 			{
-				"name"										"nexa_bold"
+				"name"										"NexaBold"
 			}
 		}
 		"CloseCaption_Italic"
 		{
 			"1"
 			{
-				"name"										"nexa_bold"
+				"name"										"NexaBold"
 			}
 		}
 		"CloseCaption_Bold"
 		{
 			"1"
 			{
-				"name"										"nexa_bold"
+				"name"										"NexaBold"
 			}
 		}
 		"CloseCaption_BoldItalic"
 		{
 			"1"
 			{
-				"name"										"nexa_bold"
+				"name"										"NexaBold"
 			}
 		}
 		"CloseCaption_Small"
 		{
 			"1"
 			{
-				"name"										"nexa_bold"
+				"name"										"NexaBold"
 			}
 		}
 	}

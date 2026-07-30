@@ -6,154 +6,154 @@
 		{
 			"1"
 			{
-				"name"										"renogare_soft_regular"
+				"name"										"RenogareSoft-Regular"
 			}
 		}
 		"m0refont10"
 		{
 			"1"
 			{
-				"name"										"renogare_soft_regular"
+				"name"										"RenogareSoft-Regular"
 			}
 		}
 		"m0refont10Shadow"
 		{
 			"1"
 			{
-				"name"										"renogare_soft_regular"
+				"name"										"RenogareSoft-Regular"
 			}
 		}
 		"m0refont11"
 		{
 			"1"
 			{
-				"name"										"renogare_soft_regular"
+				"name"										"RenogareSoft-Regular"
 			}
 		}
 		"m0refont11Shadow"
 		{
 			"1"
 			{
-				"name"										"renogare_soft_regular"
+				"name"										"RenogareSoft-Regular"
 			}
 		}
 		"m0refont12"
 		{
 			"1"
 			{
-				"name"										"renogare_soft_regular"
+				"name"										"RenogareSoft-Regular"
 			}
 		}
 		"m0refont12Shadow"
 		{
 			"1"
 			{
-				"name"										"renogare_soft_regular"
+				"name"										"RenogareSoft-Regular"
 			}
 		}
 		"m0refont14"
 		{
 			"1"
 			{
-				"name"										"renogare_soft_regular"
+				"name"										"RenogareSoft-Regular"
 			}
 		}
 		"m0refont14Shadow"
 		{
 			"1"
 			{
-				"name"										"renogare_soft_regular"
+				"name"										"RenogareSoft-Regular"
 			}
 		}
 		"m0refont16"
 		{
 			"1"
 			{
-				"name"										"renogare_soft_regular"
+				"name"										"RenogareSoft-Regular"
 			}
 		}
 		"m0refont16Shadow"
 		{
 			"1"
 			{
-				"name"										"renogare_soft_regular"
+				"name"										"RenogareSoft-Regular"
 			}
 		}
 		"m0refont18"
 		{
 			"1"
 			{
-				"name"										"renogare_soft_regular"
+				"name"										"RenogareSoft-Regular"
 			}
 		}
 		"m0refont18Shadow"
 		{
 			"1"
 			{
-				"name"										"renogare_soft_regular"
+				"name"										"RenogareSoft-Regular"
 			}
 		}
 		"m0refont18Outline"
 		{
 			"1"
 			{
-				"name"										"renogare_soft_regular"
+				"name"										"RenogareSoft-Regular"
 			}
 		}
 		"m0refont18Numbers"
 		{
 			"1"
 			{
-				"name"										"renogare_numbers"
+				"name"										"Renogare Soft Numbers"
 			}
 		}
 		"m0refont20"
 		{
 			"1"
 			{
-				"name"										"renogare_soft_regular"
+				"name"										"RenogareSoft-Regular"
 			}
 		}
 		"m0refont24"
 		{
 			"1"
 			{
-				"name"										"renogare_soft_regular"
+				"name"										"RenogareSoft-Regular"
 			}
 		}
 		"m0refont24Shadow"
 		{
 			"1"
 			{
-				"name"										"renogare_soft_regular"
+				"name"										"RenogareSoft-Regular"
 			}
 		}
 		"m0refont24Outline"
 		{
 			"1"
 			{
-				"name"										"renogare_soft_regular"
+				"name"										"RenogareSoft-Regular"
 			}
 		}
 		"m0refont24Numbers"
 		{
 			"1"
 			{
-				"name"										"renogare_numbers"
+				"name"										"Renogare Soft Numbers"
 			}
 		}
 		"m0refont26"
 		{
 			"1"
 			{
-				"name"										"renogare_soft_regular"
+				"name"										"RenogareSoft-Regular"
 			}
 		}
 		"m0refont30"
 		{
 			"1"
 			{
-				"name"										"renogare_soft_regular"
+				"name"										"RenogareSoft-Regular"
 				"Tall"										"27"
 			}
 		}
@@ -161,7 +161,7 @@
 		{
 			"1"
 			{
-				"name"										"renogare_soft_regular"
+				"name"										"RenogareSoft-Regular"
 				"Tall"										"27"
 			}
 		}
@@ -169,7 +169,7 @@
 		{
 			"1"
 			{
-				"name"										"renogare_numbers"
+				"name"										"Renogare Soft Numbers"
 				"Tall"										"27"
 			}
 		}
@@ -177,7 +177,7 @@
 		{
 			"1"
 			{
-				"name"										"renogare_soft_regular"
+				"name"										"RenogareSoft-Regular"
 				"Tall"										"29"
 			}
 		}
@@ -185,7 +185,7 @@
 		{
 			"1"
 			{
-				"name"										"renogare_soft_regular"
+				"name"										"RenogareSoft-Regular"
 				"Tall"										"29"
 			}
 		}
@@ -193,7 +193,7 @@
 		{
 			"1"
 			{
-				"name"										"renogare_soft_regular"
+				"name"										"RenogareSoft-Regular"
 				"Tall"										"43"
 			}
 		}
@@ -201,7 +201,7 @@
 		{
 			"1"
 			{
-				"name"										"renogare_soft_regular"
+				"name"										"RenogareSoft-Regular"
 				"Tall"										"44"
 			}
 		}
@@ -209,7 +209,7 @@
 		{
 			"1"
 			{
-				"name"										"renogare_soft_regular"
+				"name"										"RenogareSoft-Regular"
 				"Tall"										"52"
 			}
 		}
@@ -217,58 +217,58 @@
 		{
 			"1"
 			{
-				"name"										"renogare_soft_regular"
+				"name"										"RenogareSoft-Regular"
 			}
 			"2"
 			{
-				"name"										"renogare_soft_regular"
+				"name"										"RenogareSoft-Regular"
 			}
 			"3"
 			{
-				"name"										"renogare_soft_regular"
+				"name"										"RenogareSoft-Regular"
 			}
 			"4"
 			{
-				"name"										"renogare_soft_regular"
+				"name"										"RenogareSoft-Regular"
 			}
 			"5"
 			{
-				"name"										"renogare_soft_regular"
+				"name"										"RenogareSoft-Regular"
 			}
 		}
-		"CloseCaption"
+		"CloseCaption_Normal"
 		{
 			"1"
 			{
-				"name"										"renogare_soft_regular"
+				"name"										"RenogareSoft-Regular"
 			}
 		}
 		"CloseCaption_Italic"
 		{
 			"1"
 			{
-				"name"										"renogare_soft_regular"
+				"name"										"RenogareSoft-Regular"
 			}
 		}
 		"CloseCaption_Bold"
 		{
 			"1"
 			{
-				"name"										"renogare_soft_regular"
+				"name"										"RenogareSoft-Regular"
 			}
 		}
 		"CloseCaption_BoldItalic"
 		{
 			"1"
 			{
-				"name"										"renogare_soft_regular"
+				"name"										"RenogareSoft-Regular"
 			}
 		}
 		"CloseCaption_Small"
 		{
 			"1"
 			{
-				"name"										"renogare_soft_regular"
+				"name"										"RenogareSoft-Regular"
 			}
 		}
 	}

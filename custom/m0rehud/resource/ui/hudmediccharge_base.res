@@ -29,9 +29,9 @@
 		"ControlName"								"CExLabel"
 		"FieldName"									"ChargeLabel"
 		"XPos"										"cs-0.5"
-		"XPos_Minmode"								"-92"
+		"XPos_Minmode"								"0"
 		"YPos"										"c45"
-		"YPos_Minmode"								"52"
+		"YPos_Minmode"								"0"
 		"ZPos"										"2"
 		"Wide"										"100"
 		"Tall"										"20"
@@ -42,7 +42,7 @@
 		"LabelText"									"#TF_UberchargeMinHUD"
 		"TextAlignment"								"center"
 		"Font"										"m0refont18Shadow"
-		"Font_Minmode"								"m0refont12Shadow"
+		"Font_Minmode"								"m0refont32Shadow"
 		"FGColor"									"Ubercharge"
 
 		"Pin_To_Sibling_Minmode"					"UberAnchor"
@@ -143,8 +143,8 @@
 	{
 		"ControlName"								"CExLabel"
 		"FieldName"									"IndividualChargesLabel"
-		"XPos"										"4"
-		"YPos"										"2"
+		"XPos"										"0"
+		"YPos"										"0"
 		"ZPos"										"3"
 		"Wide"										"100"
 		"Tall"										"20"
@@ -156,7 +156,7 @@
 		"TextAlignment"								"center"
 		"FGColor"									"Ubercharge"
 		"Font"										"m0refont18Shadow"
-		"Font_Minmode"								"m0refont12Shadow"
+		"Font_Minmode"								"m0refont32Shadow"
 
 		"Pin_To_Sibling"							"ChargeLabel"
 	}

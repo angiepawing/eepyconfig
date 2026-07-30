@@ -6,7 +6,7 @@
 		{
 			"1"
 			{
-				"name"										"days"
+				"name"										"Days"
 				"Tall"										"8"
 			}
 		}
@@ -14,7 +14,7 @@
 		{
 			"1"
 			{
-				"name"										"days"
+				"name"										"Days"
 				"Tall"										"9"
 			}
 		}
@@ -22,7 +22,7 @@
 		{
 			"1"
 			{
-				"name"										"days"
+				"name"										"Days"
 				"Tall"										"9"
 			}
 		}
@@ -30,7 +30,7 @@
 		{
 			"1"
 			{
-				"name"										"days"
+				"name"										"Days"
 				"Tall"										"10"
 			}
 		}
@@ -38,7 +38,7 @@
 		{
 			"1"
 			{
-				"name"										"days"
+				"name"										"Days"
 				"Tall"										"10"
 			}
 		}
@@ -46,7 +46,7 @@
 		{
 			"1"
 			{
-				"name"										"days"
+				"name"										"Days"
 				"Tall"										"11"
 			}
 		}
@@ -54,7 +54,7 @@
 		{
 			"1"
 			{
-				"name"										"days"
+				"name"										"Days"
 				"Tall"										"11"
 			}
 		}
@@ -62,7 +62,7 @@
 		{
 			"1"
 			{
-				"name"										"days"
+				"name"										"Days"
 				"Tall"										"12"
 			}
 		}
@@ -70,7 +70,7 @@
 		{
 			"1"
 			{
-				"name"										"days"
+				"name"										"Days"
 				"Tall"										"12"
 			}
 		}
@@ -78,7 +78,7 @@
 		{
 			"1"
 			{
-				"name"										"days"
+				"name"										"Days"
 				"Tall"										"13"
 			}
 		}
@@ -86,7 +86,7 @@
 		{
 			"1"
 			{
-				"name"										"days"
+				"name"										"Days"
 				"Tall"										"13"
 			}
 		}
@@ -94,7 +94,7 @@
 		{
 			"1"
 			{
-				"name"										"days"
+				"name"										"Days"
 				"Tall"										"15"
 			}
 		}
@@ -102,7 +102,7 @@
 		{
 			"1"
 			{
-				"name"										"days"
+				"name"										"Days"
 				"Tall"										"15"
 			}
 		}
@@ -110,7 +110,7 @@
 		{
 			"1"
 			{
-				"name"										"days"
+				"name"										"Days"
 				"Tall"										"15"
 			}
 		}
@@ -118,7 +118,7 @@
 		{
 			"1"
 			{
-				"name"										"days_numbers"
+				"name"										"Days-Numbers"
 				"Tall"										"15"
 			}
 		}
@@ -126,7 +126,7 @@
 		{
 			"1"
 			{
-				"name"										"days"
+				"name"										"Days"
 				"Tall"										"17"
 			}
 		}
@@ -134,7 +134,7 @@
 		{
 			"1"
 			{
-				"name"										"days"
+				"name"										"Days"
 				"Tall"										"19"
 			}
 		}
@@ -142,7 +142,7 @@
 		{
 			"1"
 			{
-				"name"										"days"
+				"name"										"Days"
 				"Tall"										"19"
 			}
 		}
@@ -150,7 +150,7 @@
 		{
 			"1"
 			{
-				"name"										"days"
+				"name"										"Days"
 				"Tall"										"19"
 			}
 		}
@@ -158,7 +158,7 @@
 		{
 			"1"
 			{
-				"name"										"days_numbers"
+				"name"										"Days-Numbers"
 				"Tall"										"19"
 			}
 		}
@@ -166,7 +166,7 @@
 		{
 			"1"
 			{
-				"name"										"days"
+				"name"										"Days"
 				"Tall"										"22"
 			}
 		}
@@ -174,7 +174,7 @@
 		{
 			"1"
 			{
-				"name"										"days"
+				"name"										"Days"
 				"Tall"										"26"
 			}
 		}
@@ -182,7 +182,7 @@
 		{
 			"1"
 			{
-				"name"										"days"
+				"name"										"Days"
 				"Tall"										"26"
 			}
 		}
@@ -190,7 +190,7 @@
 		{
 			"1"
 			{
-				"name"										"days_numbers"
+				"name"										"Days-Numbers"
 				"Tall"										"26"
 			}
 		}
@@ -198,7 +198,7 @@
 		{
 			"1"
 			{
-				"name"										"days"
+				"name"										"Days"
 				"Tall"										"27"
 			}
 		}
@@ -206,7 +206,7 @@
 		{
 			"1"
 			{
-				"name"										"days"
+				"name"										"Days"
 				"Tall"										"27"
 			}
 		}
@@ -214,7 +214,7 @@
 		{
 			"1"
 			{
-				"name"										"days"
+				"name"										"Days"
 				"Tall"										"29"
 			}
 		}
@@ -222,7 +222,7 @@
 		{
 			"1"
 			{
-				"name"										"days"
+				"name"										"Days"
 				"Tall"										"36"
 			}
 		}
@@ -230,7 +230,7 @@
 		{
 			"1"
 			{
-				"name"										"days"
+				"name"										"Days"
 				"Tall"										"42"
 			}
 		}
@@ -238,67 +238,68 @@
 		{
 			"1"
 			{
-				"name"										"days"
+				"name"										"Days"
 				"Tall"										"11"
 			}
 			"2"
 			{
-				"name"										"days"
+				"name"										"Days"
 				"Tall"										"14"
 			}
 			"3"
 			{
-				"name"										"days"
+				"name"										"Days"
 				"Tall"										"18"
 			}
 			"4"
 			{
-				"name"										"days"
+				"name"										"Days"
 				"Tall"										"20"
 			}
 			"5"
 			{
-				"name"										"days"
+				"name"										"Days"
+				"Tall"										"20"
 			}
 		}
-		"CloseCaption"
+		"CloseCaption_Normal"
 		{
 			"1"
 			{
-				"name"										"days"
-				"Tall"										"10"
+				"name"										"Days"
+				"Tall"										"12"
 			}
 		}
 		"CloseCaption_Italic"
 		{
 			"1"
 			{
-				"name"										"days"
-				"Tall"										"10"
+				"name"										"Days"
+				"Tall"										"12"
 			}
 		}
 		"CloseCaption_Bold"
 		{
 			"1"
 			{
-				"name"										"days"
-				"Tall"										"10"
+				"name"										"Days"
+				"Tall"										"12"
 			}
 		}
 		"CloseCaption_BoldItalic"
 		{
 			"1"
 			{
-				"name"										"days"
-				"Tall"										"10"
+				"name"										"Days"
+				"Tall"										"12"
 			}
 		}
 		"CloseCaption_Small"
 		{
 			"1"
 			{
-				"name"										"days"
-				"Tall"										"10"
+				"name"										"Days"
+				"Tall"										"9"
 			}
 		}
 	}

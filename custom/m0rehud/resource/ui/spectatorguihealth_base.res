@@ -34,7 +34,7 @@
 		"ControlName"								"ImagePanel"
 		"FieldName"									"PlayerStatusHealthBonusImage"
 		"XPos"										"15"
-		"XPos_Minmode"								"9999"
+		"XPos_Minmode"								"12"
 		"YPos"										"14"
 		"YPos_Minmode"								"13"
 		"ZPos"										"-1"
@@ -66,7 +66,7 @@
 		"TextAlignment"								"center"
 		"LabelText"									"%Health%"
 		"Font"										"m0refont24"
-		"Font_Minmode"								"m0refont20"
+		"Font_Minmode"								"m0refont18"
 		"FGColor"									"Health_Numbers"
 	}
 	"HealthValue_Target_Shadow"
@@ -86,7 +86,7 @@
 		"TextAlignment"								"center"
 		"LabelText"									"%Health%"
 		"Font"										"m0refont24"
-		"Font_Minmode"								"m0refont20"
+		"Font_Minmode"								"m0refont18"
 		"FGColor"									"Black"
 
 		"Pin_To_Sibling"							"HealthValue_Target"

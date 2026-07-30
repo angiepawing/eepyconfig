@@ -6,84 +6,84 @@
 		{
 			"1"
 			{
-				"name"										"surface_semibold"
+				"name"										"Surface-SemiBold"
 			}
 		}
 		"m0refont10"
 		{
 			"1"
 			{
-				"name"										"surface_semibold"
+				"name"										"Surface-SemiBold"
 			}
 		}
 		"m0refont10Shadow"
 		{
 			"1"
 			{
-				"name"										"surface_semibold"
+				"name"										"Surface-SemiBold"
 			}
 		}
 		"m0refont11"
 		{
 			"1"
 			{
-				"name"										"surface_semibold"
+				"name"										"Surface-SemiBold"
 			}
 		}
 		"m0refont11Shadow"
 		{
 			"1"
 			{
-				"name"										"surface_semibold"
+				"name"										"Surface-SemiBold"
 			}
 		}
 		"m0refont12"
 		{
 			"1"
 			{
-				"name"										"surface_semibold"
+				"name"										"Surface-SemiBold"
 			}
 		}
 		"m0refont12Shadow"
 		{
 			"1"
 			{
-				"name"										"surface_semibold"
+				"name"										"Surface-SemiBold"
 			}
 		}
 		"m0refont14"
 		{
 			"1"
 			{
-				"name"										"surface_semibold"
+				"name"										"Surface-SemiBold"
 			}
 		}
 		"m0refont14Shadow"
 		{
 			"1"
 			{
-				"name"										"surface_semibold"
+				"name"										"Surface-SemiBold"
 			}
 		}
 		"m0refont16"
 		{
 			"1"
 			{
-				"name"										"surface_semibold"
+				"name"										"Surface-SemiBold"
 			}
 		}
 		"m0refont16Shadow"
 		{
 			"1"
 			{
-				"name"										"surface_semibold"
+				"name"										"Surface-SemiBold"
 			}
 		}
 		"m0refont18"
 		{
 			"1"
 			{
-				"name"										"surface_semibold"
+				"name"										"Surface-SemiBold"
 				"Tall"										"17"
 			}
 		}
@@ -91,7 +91,7 @@
 		{
 			"1"
 			{
-				"name"										"surface_semibold"
+				"name"										"Surface-SemiBold"
 				"Tall"										"17"
 			}
 		}
@@ -99,7 +99,7 @@
 		{
 			"1"
 			{
-				"name"										"surface_semibold"
+				"name"										"Surface-SemiBold"
 				"Tall"										"17"
 			}
 		}
@@ -107,7 +107,7 @@
 		{
 			"1"
 			{
-				"name"										"surface_semibold_numbers"
+				"name"										"Surface Semibold Numbers"
 				"Tall"										"17"
 			}
 		}
@@ -115,7 +115,7 @@
 		{
 			"1"
 			{
-				"name"										"surface_semibold"
+				"name"										"Surface-SemiBold"
 				"Tall"										"18"
 			}
 		}
@@ -123,7 +123,7 @@
 		{
 			"1"
 			{
-				"name"										"surface_semibold"
+				"name"										"Surface-SemiBold"
 				"Tall"										"21"
 			}
 		}
@@ -131,7 +131,7 @@
 		{
 			"1"
 			{
-				"name"										"surface_semibold"
+				"name"										"Surface-SemiBold"
 				"Tall"										"21"
 			}
 		}
@@ -139,7 +139,7 @@
 		{
 			"1"
 			{
-				"name"										"surface_semibold"
+				"name"										"Surface-SemiBold"
 				"Tall"										"21"
 			}
 		}
@@ -147,7 +147,7 @@
 		{
 			"1"
 			{
-				"name"										"surface_semibold_numbers"
+				"name"										"Surface Semibold Numbers"
 				"Tall"										"21"
 			}
 		}
@@ -155,7 +155,7 @@
 		{
 			"1"
 			{
-				"name"										"surface_semibold"
+				"name"										"Surface-SemiBold"
 				"Tall"										"23"
 			}
 		}
@@ -163,7 +163,7 @@
 		{
 			"1"
 			{
-				"name"										"surface_semibold"
+				"name"										"Surface-SemiBold"
 				"Tall"										"26"
 			}
 		}
@@ -171,7 +171,7 @@
 		{
 			"1"
 			{
-				"name"										"surface_semibold"
+				"name"										"Surface-SemiBold"
 				"Tall"										"26"
 			}
 		}
@@ -179,7 +179,7 @@
 		{
 			"1"
 			{
-				"name"										"surface_semibold_numbers"
+				"name"										"Surface Semibold Numbers"
 				"Tall"										"26"
 			}
 		}
@@ -187,7 +187,7 @@
 		{
 			"1"
 			{
-				"name"										"surface_semibold"
+				"name"										"Surface-SemiBold"
 				"Tall"										"28"
 			}
 		}
@@ -195,7 +195,7 @@
 		{
 			"1"
 			{
-				"name"										"surface_semibold"
+				"name"										"Surface-SemiBold"
 				"Tall"										"28"
 			}
 		}
@@ -203,7 +203,7 @@
 		{
 			"1"
 			{
-				"name"										"surface_semibold"
+				"name"										"Surface-SemiBold"
 				"Tall"										"38"
 			}
 		}
@@ -211,7 +211,7 @@
 		{
 			"1"
 			{
-				"name"										"surface_semibold"
+				"name"										"Surface-SemiBold"
 				"Tall"										"44"
 			}
 		}
@@ -219,7 +219,7 @@
 		{
 			"1"
 			{
-				"name"										"surface_semibold"
+				"name"										"Surface-SemiBold"
 				"Tall"										"52"
 			}
 		}
@@ -227,58 +227,58 @@
 		{
 			"1"
 			{
-				"name"										"surface_semibold"
+				"name"										"Surface-SemiBold"
 			}
 			"2"
 			{
-				"name"										"surface_semibold"
+				"name"										"Surface-SemiBold"
 			}
 			"3"
 			{
-				"name"										"surface_semibold"
+				"name"										"Surface-SemiBold"
 			}
 			"4"
 			{
-				"name"										"surface_semibold"
+				"name"										"Surface-SemiBold"
 			}
 			"5"
 			{
-				"name"										"surface_semibold"
+				"name"										"Surface-SemiBold"
 			}
 		}
-		"CloseCaption"
+		"CloseCaption_Normal"
 		{
 			"1"
 			{
-				"name"										"surface_semibold"
+				"name"										"Surface-SemiBold"
 			}
 		}
 		"CloseCaption_Italic"
 		{
 			"1"
 			{
-				"name"										"surface_semibold"
+				"name"										"Surface-SemiBold"
 			}
 		}
 		"CloseCaption_Bold"
 		{
 			"1"
 			{
-				"name"										"surface_semibold"
+				"name"										"Surface-SemiBold"
 			}
 		}
 		"CloseCaption_BoldItalic"
 		{
 			"1"
 			{
-				"name"										"surface_semibold"
+				"name"										"Surface-SemiBold"
 			}
 		}
 		"CloseCaption_Small"
 		{
 			"1"
 			{
-				"name"										"surface_semibold"
+				"name"										"Surface-SemiBold"
 			}
 		}
 	}

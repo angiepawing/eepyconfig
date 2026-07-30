@@ -6,7 +6,7 @@
 		{
 			"1"
 			{
-				"name"										"surface_medium"
+				"name"										"Surface-Medium"
 				"Tall"										"24"
 				"antialias"									"1"
 			}
@@ -15,7 +15,7 @@
 		{
 			"1"
 			{
-				"name"										"alternate_gothic_ef"
+				"name"										"AlternateGothicEF-NoThree"
 				"Tall"										"30"
 				"antialias"									"1"
 			}
@@ -33,7 +33,7 @@
 		{
 			"1"
 			{
-				"name"										"avenir_black"
+				"name"										"AvenirLTStd-Black"
 				"Tall"										"23"
 				"antialias"									"1"
 			}
@@ -42,7 +42,7 @@
 		{
 			"1"
 			{
-				"name"										"cafe_nero_m54"
+				"name"										"Cafe Nero M54"
 				"Tall"										"15"
 				"antialias"									"1"
 			}
@@ -51,7 +51,7 @@
 		{
 			"1"
 			{
-				"name"										"catamaran_semibold"
+				"name"										"Catamaran SemiBold"
 				"Tall"										"36"
 				"antialias"									"1"
 			}
@@ -60,7 +60,7 @@
 		{
 			"1"
 			{
-				"name"										"cerbetica_bold"
+				"name"										"Cerbetica Bold"
 				"Tall"										"27"
 				"antialias"									"1"
 			}
@@ -69,7 +69,7 @@
 		{
 			"1"
 			{
-				"name"										"code_pro_lc"
+				"name"										"Code-Pro-LC"
 				"Tall"										"24"
 				"antialias"									"1"
 			}
@@ -78,7 +78,7 @@
 		{
 			"1"
 			{
-				"name"										"days"
+				"name"										"Days"
 				"Tall"										"20"
 				"antialias"									"1"
 			}
@@ -87,7 +87,7 @@
 		{
 			"1"
 			{
-				"name"										"futura_std_heavy"
+				"name"										"FuturaSTD-Heavy"
 				"Tall"										"25"
 				"antialias"									"1"
 			}
@@ -96,7 +96,7 @@
 		{
 			"1"
 			{
-				"name"										"handel_gothic_bt"
+				"name"										"Handel Gothic BT"
 				"Tall"										"20"
 				"antialias"									"1"
 			}
@@ -105,7 +105,7 @@
 		{
 			"1"
 			{
-				"name"										"harabara_bold"
+				"name"										"Harabara Bold"
 				"Tall"										"24"
 				"antialias"									"1"
 			}
@@ -114,7 +114,7 @@
 		{
 			"1"
 			{
-				"name"										"helvetica_neue_lt"
+				"name"										"HelveticaNeueLT-BoldExt"
 				"Tall"										"18"
 				"antialias"									"1"
 			}
@@ -123,7 +123,7 @@
 		{
 			"1"
 			{
-				"name"										"lato_bold"
+				"name"										"Lato Bold"
 				"Tall"										"24"
 				"antialias"									"1"
 			}
@@ -132,7 +132,7 @@
 		{
 			"1"
 			{
-				"name"										"mavenpro_black"
+				"name"										"Maven Pro Black"
 				"Tall"										"22"
 				"antialias"									"1"
 			}
@@ -141,7 +141,7 @@
 		{
 			"1"
 			{
-				"name"										"neutra_text_bold"
+				"name"										"NeutraText-Bold"
 				"Tall"										"27"
 				"antialias"									"1"
 			}
@@ -150,7 +150,7 @@
 		{
 			"1"
 			{
-				"name"										"nexa_bold"
+				"name"										"NexaBold"
 				"Tall"										"23"
 				"antialias"									"1"
 			}
@@ -159,7 +159,7 @@
 		{
 			"1"
 			{
-				"name"										"noto_sans_bold"
+				"name"										"Noto Sans Bold"
 				"Tall"										"28"
 				"antialias"									"1"
 			}
@@ -168,7 +168,7 @@
 		{
 			"1"
 			{
-				"name"										"tt_octosquares_trl_bld"
+				"name"										"TT Octosquares Trl Bd"
 				"Tall"										"22"
 				"antialias"									"1"
 			}
@@ -177,7 +177,7 @@
 		{
 			"1"
 			{
-				"name"										"product_sans"
+				"name"										"Product Sans"
 				"Tall"										"26"
 				"antialias"									"1"
 			}
@@ -186,7 +186,7 @@
 		{
 			"1"
 			{
-				"name"										"product_sans_bold"
+				"name"										"Product Sans Bold"
 				"Tall"										"26"
 				"antialias"									"1"
 			}
@@ -195,7 +195,7 @@
 		{
 			"1"
 			{
-				"name"										"raleway_bold"
+				"name"										"Raleway Bold"
 				"Tall"										"28"
 				"antialias"									"1"
 			}
@@ -204,7 +204,7 @@
 		{
 			"1"
 			{
-				"name"										"renogare_soft_regular"
+				"name"										"RenogareSoft-Regular"
 				"Tall"										"24"
 				"antialias"									"1"
 			}
@@ -213,7 +213,7 @@
 		{
 			"1"
 			{
-				"name"										"roboto_bold"
+				"name"										"Roboto Bold"
 				"Tall"										"25"
 				"antialias"									"1"
 			}
@@ -222,7 +222,7 @@
 		{
 			"1"
 			{
-				"name"										"rubik_semibold"
+				"name"										"Rubik SemiBold"
 				"Tall"										"23"
 				"antialias"									"1"
 			}
@@ -231,7 +231,7 @@
 		{
 			"1"
 			{
-				"name"										"sansation_bold"
+				"name"										"Sansation Bold"
 				"Tall"										"22"
 				"antialias"									"1"
 			}
@@ -240,7 +240,7 @@
 		{
 			"1"
 			{
-				"name"										"slate_pro_bold_condensed"
+				"name"										"SlatePro-BoldCondensed"
 				"Tall"										"25"
 				"antialias"									"1"
 			}
@@ -249,7 +249,7 @@
 		{
 			"1"
 			{
-				"name"										"solomon_heavy"
+				"name"										"Solomon Heavy"
 				"Tall"										"22"
 				"antialias"									"1"
 			}
@@ -258,7 +258,7 @@
 		{
 			"1"
 			{
-				"name"										"surface_medium"
+				"name"										"Surface-Medium"
 				"Tall"										"24"
 				"antialias"									"1"
 			}
@@ -267,7 +267,7 @@
 		{
 			"1"
 			{
-				"name"										"surface_semibold"
+				"name"										"Surface-Semibold"
 				"Tall"										"22"
 				"antialias"									"1"
 			}
@@ -276,7 +276,7 @@
 		{
 			"1"
 			{
-				"name"										"surface_bold"
+				"name"										"Surface-Bold"
 				"Tall"										"24"
 				"antialias"									"1"
 			}
@@ -285,7 +285,7 @@
 		{
 			"1"
 			{
-				"name"										"surface_sharpened_medium"
+				"name"										"SurfaceSharpened-Medium"
 				"Tall"										"24"
 				"antialias"									"1"
 			}
@@ -294,7 +294,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2_secondary"
+				"name"										"TF2 Secondary"
 				"Tall"										"28"
 				"antialias"									"1"
 			}
@@ -303,7 +303,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2_build"
+				"name"										"TF2 Build"
 				"Tall"										"22"
 				"antialias"									"1"
 			}
@@ -312,7 +312,7 @@
 		{
 			"1"
 			{
-				"name"										"ubuntu_bold"
+				"name"										"Ubuntu Bold"
 				"Tall"										"25"
 				"antialias"									"1"
 			}
@@ -321,7 +321,7 @@
 		{
 			"1"
 			{
-				"name"										"vcr_osd_mono"
+				"name"										"VCR OSD Mono"
 				"Tall"										"20"
 				"antialias"									"1"
 			}
@@ -330,7 +330,7 @@
 		{
 			"1"
 			{
-				"name"										"verlag_black"
+				"name"										"Verlag-Black"
 				"Tall"										"27"
 				"antialias"									"1"
 			}
@@ -339,7 +339,7 @@
 		{
 			"1"
 			{
-				"name"										"surface_medium"
+				"name"										"Surface-Medium"
 				"Tall"										"18"
 				"antialias"									"1"
 				"outline"									"1"
@@ -349,7 +349,7 @@
 		{
 			"1"
 			{
-				"name"										"surface_medium"
+				"name"										"Surface-Medium"
 				"Tall"										"24"
 				"antialias"									"1"
 				"outline"									"1"
@@ -359,7 +359,7 @@
 		{
 			"1"
 			{
-				"name"										"surface_medium"
+				"name"										"Surface-Medium"
 				"Tall"										"30"
 				"antialias"									"1"
 				"outline"									"1"
@@ -369,7 +369,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2_crosshairs_m0re_v3"
+				"name"										"TF2Crosshairs_m0re_V3"
 				"Tall"										"13"
 				"antialias"									"1"
 			}
@@ -378,7 +378,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2_crosshairs_m0re_v3"
+				"name"										"TF2Crosshairs_m0re_V3"
 				"Tall"										"30"
 				"antialias"									"1"
 				"Outline"									"1"
@@ -388,7 +388,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2_crosshairs_m0re_v3"
+				"name"										"TF2Crosshairs_m0re_V3"
 				"Tall"										"30"
 				"antialias"									"1"
 				"Dropshadow"								"1"

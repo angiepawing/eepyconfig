@@ -7,7 +7,7 @@ This is my personal Team Fortress 2 config built for maximum visibility, competi
 **Regarding Casual:** I have literally no idea what works and what doesn't with my config, be it mods or settings. Test it yourself.
 
 ## Features
-* Maximized visibility with the use of Phong shading, Specular mapping, Bumpmaps, Lightwarps, Rimlighting, Player shadows, High Character LOD, and High Character Texture Quality
+* Maximized visibility with the use of Phong shading, Specular mapping, Bumpmaps, Lightwarps, Rimlighting, Player shadows, and High Character Texture Quality
 * Removed distractions such as shell casings, tracers, dominations, custom decals, noisemakers, halloween souls, gibs, explosions, festivizers, and zombie skins
 * Flat textures
 * Useful scripts for hiding the viewmodel, turning off chat, and other class specific scripts
@@ -28,19 +28,10 @@ This is my personal Team Fortress 2 config built for maximum visibility, competi
 * [No Unusuals, Botkillers, Zombie Skins, Festivizers, or Action Items](https://pevhs.ch/tf2/vpk/nhbgum/)
 * [No Custom Decals](https://gamebanana.com/mods/295666)
 * [Original Left Hand Fix](https://drive.google.com/file/d/1LK6E2exUce3kGID2wESCvb18_Zpt-d2Q)
-* [Sniper Scope MipMap + Refractions Fix](https://gamebanana.com/mods/388222)
+* [Sniper Scope MipMap fix](https://gamebanana.com/mods/388222)
 * Disabled [killstreak](custom/customsounds/sounds/misc/killstreak.wav) sound and banner in HUD.
 * [Visible spy watches while cloaked](https://gamebanana.com/mods/206225)
-
-
-## Note
-
-
-**Where's your crosshair?**
-
-I use an application called [CrosshairX](https://store.steampowered.com/app/1366800/Crosshair_X/) with the code ib8y6jro5p. TF2 huds have somewhat lacking crosshair customization, and I've specifically fine tuned mine to fit my needs.
-
-
+* [Match Review remover](https://gamebanana.com/mods/698650)
 
 ## Special thanks
 * mastercoms for her amazing work for TF2 optimization and in depth documentation of the game

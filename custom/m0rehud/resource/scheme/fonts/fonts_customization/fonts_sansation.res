@@ -6,7 +6,7 @@
 		{
 			"1"
 			{
-				"name"										"sansation_bold"
+				"name"										"Sansation Bold"
 				"Tall"										"8"
 			}
 		}
@@ -14,7 +14,7 @@
 		{
 			"1"
 			{
-				"name"										"sansation_bold"
+				"name"										"Sansation Bold"
 				"Tall"										"9"
 			}
 		}
@@ -22,7 +22,7 @@
 		{
 			"1"
 			{
-				"name"										"sansation_bold"
+				"name"										"Sansation Bold"
 				"Tall"										"9"
 			}
 		}
@@ -30,7 +30,7 @@
 		{
 			"1"
 			{
-				"name"										"sansation_bold"
+				"name"										"Sansation Bold"
 				"Tall"										"10"
 			}
 		}
@@ -38,7 +38,7 @@
 		{
 			"1"
 			{
-				"name"										"sansation_bold"
+				"name"										"Sansation Bold"
 				"Tall"										"10"
 			}
 		}
@@ -46,7 +46,7 @@
 		{
 			"1"
 			{
-				"name"										"sansation_bold"
+				"name"										"Sansation Bold"
 				"Tall"										"11"
 			}
 		}
@@ -54,7 +54,7 @@
 		{
 			"1"
 			{
-				"name"										"sansation_bold"
+				"name"										"Sansation Bold"
 				"Tall"										"11"
 			}
 		}
@@ -62,7 +62,7 @@
 		{
 			"1"
 			{
-				"name"										"sansation_bold"
+				"name"										"Sansation Bold"
 				"Tall"										"12"
 			}
 		}
@@ -70,7 +70,7 @@
 		{
 			"1"
 			{
-				"name"										"sansation_bold"
+				"name"										"Sansation Bold"
 				"Tall"										"12"
 			}
 		}
@@ -78,7 +78,7 @@
 		{
 			"1"
 			{
-				"name"										"sansation_bold"
+				"name"										"Sansation Bold"
 				"Tall"										"14"
 			}
 		}
@@ -86,7 +86,7 @@
 		{
 			"1"
 			{
-				"name"										"sansation_bold"
+				"name"										"Sansation Bold"
 				"Tall"										"14"
 			}
 		}
@@ -94,7 +94,7 @@
 		{
 			"1"
 			{
-				"name"										"sansation_bold"
+				"name"										"Sansation Bold"
 				"Tall"										"16"
 			}
 		}
@@ -102,7 +102,7 @@
 		{
 			"1"
 			{
-				"name"										"sansation_bold"
+				"name"										"Sansation Bold"
 				"Tall"										"16"
 			}
 		}
@@ -110,7 +110,7 @@
 		{
 			"1"
 			{
-				"name"										"sansation_bold"
+				"name"										"Sansation Bold"
 				"Tall"										"16"
 			}
 		}
@@ -118,7 +118,7 @@
 		{
 			"1"
 			{
-				"name"										"sansation_numbers"
+				"name"										"Sansation-Numbers"
 				"Tall"										"16"
 			}
 		}
@@ -126,7 +126,7 @@
 		{
 			"1"
 			{
-				"name"										"sansation_bold"
+				"name"										"Sansation Bold"
 				"Tall"										"18"
 			}
 		}
@@ -134,7 +134,7 @@
 		{
 			"1"
 			{
-				"name"										"sansation_bold"
+				"name"										"Sansation Bold"
 				"Tall"										"22"
 			}
 		}
@@ -142,7 +142,7 @@
 		{
 			"1"
 			{
-				"name"										"sansation_bold"
+				"name"										"Sansation Bold"
 				"Tall"										"22"
 			}
 		}
@@ -150,7 +150,7 @@
 		{
 			"1"
 			{
-				"name"										"sansation_bold"
+				"name"										"Sansation Bold"
 				"Tall"										"22"
 			}
 		}
@@ -158,7 +158,7 @@
 		{
 			"1"
 			{
-				"name"										"sansation_numbers"
+				"name"										"Sansation-Numbers"
 				"Tall"										"22"
 			}
 		}
@@ -166,7 +166,7 @@
 		{
 			"1"
 			{
-				"name"										"sansation_bold"
+				"name"										"Sansation Bold"
 				"Tall"										"23"
 			}
 		}
@@ -174,7 +174,7 @@
 		{
 			"1"
 			{
-				"name"										"sansation_bold"
+				"name"										"Sansation Bold"
 				"Tall"										"26"
 			}
 		}
@@ -182,7 +182,7 @@
 		{
 			"1"
 			{
-				"name"										"sansation_bold"
+				"name"										"Sansation Bold"
 				"Tall"										"26"
 			}
 		}
@@ -190,7 +190,7 @@
 		{
 			"1"
 			{
-				"name"										"sansation_numbers"
+				"name"										"Sansation-Numbers"
 				"Tall"										"26"
 			}
 		}
@@ -198,7 +198,7 @@
 		{
 			"1"
 			{
-				"name"										"sansation_bold"
+				"name"										"Sansation Bold"
 				"Tall"										"27"
 			}
 		}
@@ -206,7 +206,7 @@
 		{
 			"1"
 			{
-				"name"										"sansation_bold"
+				"name"										"Sansation Bold"
 				"Tall"										"27"
 			}
 		}
@@ -214,7 +214,7 @@
 		{
 			"1"
 			{
-				"name"										"sansation_bold"
+				"name"										"Sansation Bold"
 				"Tall"										"28"
 			}
 		}
@@ -222,7 +222,7 @@
 		{
 			"1"
 			{
-				"name"										"sansation_bold"
+				"name"										"Sansation Bold"
 				"Tall"										"38"
 			}
 		}
@@ -230,7 +230,7 @@
 		{
 			"1"
 			{
-				"name"										"sansation_bold"
+				"name"										"Sansation Bold"
 				"Tall"										"46"
 			}
 		}
@@ -238,67 +238,68 @@
 		{
 			"1"
 			{
-				"name"										"sansation_bold"
+				"name"										"Sansation Bold"
 				"Tall"										"12"
 			}
 			"2"
 			{
-				"name"										"sansation_bold"
+				"name"										"Sansation Bold"
 				"Tall"										"16"
 			}
 			"3"
 			{
-				"name"										"sansation_bold"
+				"name"										"Sansation Bold"
 				"Tall"										"20"
 			}
 			"4"
 			{
-				"name"										"sansation_bold"
+				"name"										"Sansation Bold"
 				"Tall"										"22"
 			}
 			"5"
 			{
-				"name"										"sansation_bold"
+				"name"										"Sansation Bold"
+				"Tall"										"30"
 			}
 		}
-		"CloseCaption"
+		"CloseCaption_Normal"
 		{
 			"1"
 			{
-				"name"										"sansation_bold"
-				"Tall"										"10"
+				"name"										"Sansation Bold"
+				"Tall"										"12"
 			}
 		}
 		"CloseCaption_Italic"
 		{
 			"1"
 			{
-				"name"										"sansation_bold"
-				"Tall"										"10"
+				"name"										"Sansation Bold"
+				"Tall"										"12"
 			}
 		}
 		"CloseCaption_Bold"
 		{
 			"1"
 			{
-				"name"										"sansation_bold"
-				"Tall"										"10"
+				"name"										"Sansation Bold"
+				"Tall"										"12"
 			}
 		}
 		"CloseCaption_BoldItalic"
 		{
 			"1"
 			{
-				"name"										"sansation_bold"
-				"Tall"										"10"
+				"name"										"Sansation Bold"
+				"Tall"										"12"
 			}
 		}
 		"CloseCaption_Small"
 		{
 			"1"
 			{
-				"name"										"sansation_bold"
-				"Tall"										"10"
+				"name"										"Sansation Bold"
+				"Tall"										"9"
 			}
 		}
 	}

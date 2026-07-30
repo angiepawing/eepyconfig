@@ -64,7 +64,7 @@
 				"PaintBorder"						"1"
 				"BGColor_Override"					"Blank"
 				"Sound_Depressed"					"UI/buttonclick.wav"
-				"button_activation_type"			"2"
+				"Sound_Released"					"UI/buttonclickrelease.wav"
 			}
 			"New"
 			{

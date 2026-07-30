@@ -17,7 +17,7 @@
 
 		"Health_Hurt"										"255 0 0 255"
 		"Health_Shadow_Hurt"								"255 0 0 255"
-		"Health_Hurt_Target"								"255 0 0 255"
+		"Health_Hurt_Target"								"255 255 255 255"
 		"Health_Hurt_Spectator"								"255 0 0 255"
 		"Health_Hurt_Killer"								"255 0 0 255"
 
@@ -328,9 +328,9 @@
 		"Econ.Button.PresetArmedColorFg"					"White"
 		"Econ.Button.PresetDepressedColorFg"				"White"
 
-		"Econ.Button.PresetDefaultColorBg"					"Menu_Accent"
-		"Econ.Button.PresetArmedColorBg"					"Menu_Accent"
-		"Econ.Button.PresetDepressedColorBg"				"Menu_Accent"
+		"Econ.Button.PresetDefaultColorBg"					"Button_Bright"
+		"Econ.Button.PresetArmedColorBg"					"Button_Hover"
+		"Econ.Button.PresetDepressedColorBg"				"Button_Bright"
 
 		"Border.Bright"										"Blank"
 		"Border.Dark"										"Black"
@@ -498,28 +498,28 @@
 		"BGColor"											"TransparentBlack"
 
 		"ViewportBG"										"Blank"
-		"TeamSpec"											"HUDSpectator"
-		"TeamRed"											"HUDRedTeam"
-		"TeamBlue"											"HUDBlueTeam"
+		"TeamSpec"											"204 204 204 255"
+		"TeamRed"											"255 64 64 255"
+		"TeamBlue"											"153 204 255 255"
 
 		"MapDescriptionText"								"Gray"
 		"HudIcon_Green"										"0 160 0 255"
 		"HudIcon_Red"										"160 0 0 255"
 
 		"ItemColor"											"255 167 42 200"
-		"MenuColor"											"White"
-		"MenuBoxBg"											"TransparentLightBlack"
+		"MenuColor"											"233 208 173 255"
+		"MenuBoxBg"											"0 0 0 100"
 
-		"SelectionNumberFg"									"White"
-		"SelectionTextFg"									"White"
-		"SelectionEmptyBoxBg"								"TransparentLightBlack"
-		"SelectionBoxBg"									"TransparentLightBlack"
-		"SelectionSelectedBoxBg"							"TransparentBlack"
+		"SelectionNumberFg"									"255 255 255 255"
+		"SelectionTextFg"									"255 255 255 255"
+		"SelectionEmptyBoxBg"								"0 0 0 80"
+		"SelectionBoxBg"									"0 0 0 80"
+		"SelectionSelectedBoxBg"							"0 0 0 190"
 
-		"HintMessageFg"										"White"
-		"HintMessageBg"										"TransparentLightestBlack"
+		"HintMessageFg"										"255 255 255 255"
+		"HintMessageBg"										"0 0 0 60"
 
-		"ProgressBarFg"										"Red"
+		"ProgressBarFg"										"255 30 13 255"
 
 		"Main.Menu.X"										"32"
 		"Main.Menu.Y"										"248"
