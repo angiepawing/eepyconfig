@@ -7,8 +7,8 @@ This is my personal Team Fortress 2 config built for maximum visibility, competi
 **Regarding Casual:** I have literally no idea what works and what doesn't with my config, be it mods or settings. Test it yourself.
 
 ## Features
-* Maximized visibility with the use of Phong shading, Specular mapping, Bumpmaps, Lightwarps, Rimlighting, Player shadows, and High Character Texture Quality
-* Removed distractions such as shell casings, tracers, dominations, custom decals, noisemakers, halloween souls, gibs, explosions, festivizers, and zombie skins
+* Maximized visibility with the use of Phong shading, Specular mapping, Bumpmaps, Lightwarps, Rimlighting, and Player shadows
+* Removed distractions such as shell casings, tracers, dominations, custom decals, gibs, and explosions
 * Flat textures
 * Useful scripts for hiding the viewmodel, turning off chat, and other class specific scripts
 * Comments on every command and setting describing how it affects TF2
@@ -26,12 +26,10 @@ This is my personal Team Fortress 2 config built for maximum visibility, competi
 * [Flat Textures](https://github.com/palmtopangie/FlatTF2RGL)
 * [Custom VoteSound](https://gamebanana.com/sounds/63961)
 * [Mastercomfig 9.100.1 + Addons](https://comfig.app)
-* [No Unusuals, Botkillers, Zombie Skins, Festivizers, or Action Items](https://pevhs.ch/tf2/vpk/nhbgum/)
+* [No Unusuals or Action Items](https://pevhs.ch/tf2/vpk/nhbgum/)
 * [No Custom Decals](https://gamebanana.com/mods/295666)
 * [Original Left Hand Fix](https://drive.google.com/file/d/1LK6E2exUce3kGID2wESCvb18_Zpt-d2Q)
-* [Sniper Scope MipMap fix](https://gamebanana.com/mods/388222)
 * Disabled [killstreak](custom/customsounds/sounds/misc/killstreak.wav) sound and banner in HUD.
-* [Visible spy watches while cloaked](https://gamebanana.com/mods/206225)
 
 ## Special thanks
 * mastercoms for her amazing work for TF2 optimization and in depth documentation of the game
