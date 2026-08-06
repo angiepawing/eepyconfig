@@ -26,10 +26,11 @@ This is my personal Team Fortress 2 config built for maximum visibility, competi
 * [Flat Textures](https://github.com/palmtopangie/FlatTF2RGL)
 * [Custom VoteSound](https://gamebanana.com/sounds/63961)
 * [Mastercomfig 9.100.1 + Addons](https://comfig.app)
-* [No Unusuals or Action Items](https://pevhs.ch/tf2/vpk/nhbgum/)
+* [No Unusuals, Botkillers, Festivizers, Skins, or Action Items](https://pevhs.ch/tf2/vpk/nhbgum/)
 * [No Custom Decals](https://gamebanana.com/mods/295666)
 * [Original Left Hand Fix](https://drive.google.com/file/d/1LK6E2exUce3kGID2wESCvb18_Zpt-d2Q)
 * Disabled [killstreak](custom/customsounds/sounds/misc/killstreak.wav) sound and banner in HUD.
+* [Visible spy watches while cloaked](https://gamebanana.com/mods/206225)
 
 ## Special thanks
 * mastercoms for her amazing work for TF2 optimization and in depth documentation of the game
