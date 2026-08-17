@@ -1,6 +1,6 @@
 # palmtopconfig
 
-This is my personal Team Fortress 2 config built for maximum visibility, competitive integrity and legality, and stability in mind.
+This is my personal Team Fortress 2 config built for maximum visibility, competitive integrity, legality, and stability in mind.
 
 **NOTE:** This config is completely reliant on [Mastercomfig](https://comfig.app), [Mastercomfigs settings](cfg/overrides/modules.cfg), my [autoexec.cfg](cfg/overrides/autoexec.cfg), and my [launch options](cfg/overrides/autoexec.cfg#L19), as they include the resolution, optimizations, and security focused Launch Arguments.
 
