@@ -1,1 +1,1 @@
-08/14/2026 - 19:43:03: X { MainMenuOverride { SafeMode { Customizations_Panel { HUD_Customization_Home_Panel { Visible 0 } HUD_Quick_Settings_Selection { Visible 1 } } } } } 
+X { MainMenuOverride { SafeMode { Customizations_Panel { HUD_Customization_Home_Panel { Visible 0 } HUD_Colors_Selection { Visible 1 } } } } } 
