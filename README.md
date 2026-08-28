@@ -16,7 +16,7 @@ This is my personal Team Fortress 2 config built for maximum visibility, competi
 * Disabled custom decals and sprays
 * Full legality under all TF2 competitive leagues
 * Missing unicode symbols fix for Linux systems
-* Enables deep preloading through native TF2 methods
+* Enables deep [preloading](https://github.com/palmtopangie/palmtopconfig/blob/main/cfg/preload.cfg) through native TF2 methods
 
  ## Mods
 
