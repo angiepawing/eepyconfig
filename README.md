@@ -15,18 +15,22 @@ This is my personal Team Fortress 2 config built for maximum visibility, competi
 * My custom m0rehud
 * Disabled custom decals and sprays
 * Full legality under all TF2 competitive leagues
+* Missing unicode symbols fix for Linux systems
+* Enables deep preloading through native TF2 methods
 
  ## Mods
 
 * [Resized Explosions, removed shellcasings and tracers](https://comfig.app/app)
 * [Extended Domination Remover](https://gamebanana.com/mods/298459)
+* [Anti Noisemaker](https://cobyyolo.vip/mods/files/Anti-Noisemaker.vpk)
 * [Better Killfeed Icons](https://gamebanana.com/mods/406361)
 * [Disable Miss Pauling](https://gamebanana.com/mods/325900)
 * [Flat Textures](https://github.com/palmtopangie/FlatTF2RGL)
 * [Custom VoteSound](https://gamebanana.com/sounds/63961)
 * [Mastercomfig 9.100.1 + Addons](https://comfig.app)
-* [No Botkillers, Festivizers, or Action Items](https://pevhs.ch/tf2/vpk/nhbgum/)
-* [No Custom Decals](https://gamebanana.com/mods/295666)
+* [No Unusuals, Zombie Skins, Botkillers, Festivizers, or Action Items](https://pevhs.ch/tf2/vpk/nhbgum/)
+* [No Max's Severed Head](https://gamebanana.com/mods/710585)
+* [No Statclock](https://gamebanana.com/mods/576460)
 * [Original Left Hand Fix](https://drive.google.com/file/d/1LK6E2exUce3kGID2wESCvb18_Zpt-d2Q)
 * Disabled [killstreak](custom/customsounds/sounds/misc/killstreak.wav) sound and banner in HUD.
 
